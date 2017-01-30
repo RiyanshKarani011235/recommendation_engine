@@ -49,6 +49,7 @@ def crawl(movie_names_array) :
 		for element in correct_responses : 
 			url = element[1]['url']
 			print('\tfetching ' + url)
+			# make all html in one line (for regex compatiblity)
 			html = http_utils.get_html_from_url(url).replace('\n', '')
 
 			# check dates for the corresponding movies
@@ -56,7 +57,6 @@ def crawl(movie_names_array) :
 				correct_responses_.append((search_string, html))
 
 		correct_responses = correct_responses_
-		print(correct_responses)
 
 		#TODO: 
 		# do something with html, and store the required data 
