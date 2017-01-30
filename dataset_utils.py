@@ -1,8 +1,8 @@
-dataset_path = './data/ml-100k/u.item'
+import config
 
 def parse_dataset() : 
 	data = ''
-	with open(dataset_path, 'r') as f : 
+	with open(config.ITEMS_DATASET_PATH, 'r') as f : 
 		data = f.read()
 
 	movie_names_array = []
