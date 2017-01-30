@@ -19,9 +19,13 @@ import http_utils
 import imdb_movie_page_html_parse_utils
 import string_utils
 
+saved_data_file_url = './data/data.txt'
+
 def crawl(movie_names_array) :
 
-	for search_string in movie_names_array : 
+	for i in range(len(movie_names_array)) : 
+		search_string = movie_names_array[i]
+
 		print('searching for ' + search_string)
 
 		res = http_utils.imdb_search(search_string)
@@ -58,13 +62,31 @@ def crawl(movie_names_array) :
 
 		correct_responses = correct_responses_
 
-		#TODO: 
-		# do something with html, and store the required data 
-		# directors, actors, ...
+		data_array = []
+		for element in correct_responses : 
+			html = element[1]
 
-		# append this data to element
-		raise SystemExit(0)
+			country = imdb_movie_page_html_parse_utils.get_country_from_html(html)
+			if country == None : 
+				country = 'None'
+			director = imdb_movie_page_html_parse_utils.get_director_from_html(html)
+			if director == None : 
+				director = 'None'
+			actors = imdb_movie_page_html_parse_utils.get_actors_from_html(html)
+			if actors == None : 
+				actors = []
+
+			string = search_string + '||' + movie_release_dates_array[i] + '||'
+			for element in movie_genres_array[i] : 
+				string += element + '&&'
+			string = string[:-2] + '||' + country + '||' + director + '||'
+			for element in actors : 
+				string += element + '&&'
+			string = string[:-2] + '\n'
+
+			with open(saved_data_file_url, 'a') as f : 
+				f.write(string)
 
 if __name__ == '__main__' : 
-	dataset = dataset_utils.parse_dataset()
-	crawl(dataset)
+	movie_names_array, movie_release_dates_array, movie_genres_array = dataset_utils.parse_dataset()
+	crawl(movie_names_array)
