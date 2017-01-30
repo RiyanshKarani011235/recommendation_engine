@@ -1,10 +1,22 @@
+'''
+Features to use from IMDB database:
+	1.Actor
+	2.Actress
+	3.Country 
+	4.Director
+	5.keywords
+	6.Producer
+	7.Production Company
+	8.Production Designer
+'''
+
 import ast
 import json
 import re
 
 import dataset_utils
 import http_utils
-import html_parse_utils
+import imdb_movie_page_html_parse_utils
 import string_utils
 
 def crawl(movie_names_array) :
@@ -40,7 +52,7 @@ def crawl(movie_names_array) :
 			html = http_utils.get_html_from_url(url).replace('\n', '')
 
 			# check dates for the corresponding movies
-			if html_parse_utils.get_movie_date_from_html(html) == string_utils.get_date_from_title(search_string) : 
+			if imdb_movie_page_html_parse_utils.get_movie_date_from_html(html) == string_utils.get_date_from_title(search_string) : 
 				correct_responses_.append((search_string, html))
 
 		correct_responses = correct_responses_
