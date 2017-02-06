@@ -21,30 +21,59 @@ import string_utils
 
 saved_data_file_url = './data/data.txt'
 
+use_new_implementation = True
+
 def crawl(movie_names_array) :
 
+	def nothing_found(search_string, message) : 
+		print(search_string + ' : ' + message)
+		string = search_string + '||\n'
+		with open(saved_data_file_url, 'a') as f : 
+			f.write(string)
+
 	for i in range(len(movie_names_array)) : 
+
+
 		search_string = movie_names_array[i]
 
-		print('searching for ' + search_string)
+		# strip date from the name, and search using just the name
+		array_ = search_string.split('(')[:-1]
+		search_string_ = ''
+		for element in array_ : 
+			search_string_ += element + '('
+		search_string_ = string_utils.strip_spaces(search_string_[:-1]).lower()
 
-		res = http_utils.imdb_search(search_string)
+		print('searching for ' + search_string_)
 		correct_responses = []
 
+
+		res = http_utils.imdb_search(search_string_)
+		
 		if res != None :
 			# parse unicode string into ascii string
 			res = str(res)
 			res = res.replace('u\'', '\'')
+			res = res.replace('\n', '')
 			res = dict(ast.literal_eval(res))
 
-			# parse JSON to convert to python object
-			titles = res['data']['results']['titles']
+			print(res)
 
+			# parse JSON to convert to python object
+			try : 
+				titles = res['data']['results']['titles']
+			except : 
+				nothing_found(search_string, '\tno results')
+				continue
+			
 			# get URL's for correct titles
 			for title in titles : 
 				t = string_utils.strip_spaces(title['title']).lower()
 				if string_utils.get_name_from_title(search_string) == t :
 					correct_responses.append((search_string, title))
+
+		else :
+			nothing_found(search_string, '\tresponse is None')
+			continue
 
 		# got all movies that are contextually valid
 		# check move dates with that on the webpage
@@ -57,10 +86,19 @@ def crawl(movie_names_array) :
 			html = http_utils.get_html_from_url(url).replace('\n', '')
 
 			# check dates for the corresponding movies
-			if imdb_movie_page_html_parse_utils.get_movie_date_from_html(html) == string_utils.get_date_from_title(search_string) : 
+			movie_date = imdb_movie_page_html_parse_utils.get_movie_date_from_html(html)
+			print(movie_date)
+			if movie_date == string_utils.get_date_from_title(search_string) : 
 				correct_responses_.append((search_string, html))
 
+				# greedy
+				break
+
 		correct_responses = correct_responses_
+
+		if len(correct_responses) == 0 : 
+			nothing_found(search_string, '\t0 correct responses')
+			continue
 
 		data_array = []
 		for element in correct_responses : 
@@ -87,6 +125,7 @@ def crawl(movie_names_array) :
 			with open(saved_data_file_url, 'a') as f : 
 				f.write(string)
 
+
 if __name__ == '__main__' : 
-	movie_names_array, movie_release_dates_array, movie_genres_array = dataset_utils.parse_dataset()
+	movie_names_array, movie_release_dates_array, movie_genres_array, movie_urls_array = dataset_utils.parse_dataset()
 	crawl(movie_names_array)

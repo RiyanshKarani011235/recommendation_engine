@@ -7,6 +7,7 @@ def get_html_from_url(url) :
 
 def imdb_search(search_string) :
 	request_url = config.IMDB_SEARCH_API + '?api_key=' + config.IMDB_SEARCH_API_KEY + '&q=' + search_string
+	print('\t' + request_url)
 	r = requests.get(request_url)
 	if r.status_code == 200 :
 		print('\tsearch : request successfull')

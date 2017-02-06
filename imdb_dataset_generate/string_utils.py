@@ -20,6 +20,8 @@ def get_name_from_title(title) :
 def strip_spaces(string) : 
 	# removes spaces from start and end
 
+	if len(string) == 0 : 
+		return string
 	# remove extra spaces / tabs from the start
 	i = 0
 	while re.search(r'[ \t]', string[i]) :

@@ -10,11 +10,13 @@ def parse_dataset() :
 	movie_names_array = []
 	movie_release_date_array = []
 	movie_genres_array = []
+	movie_urls_array = []
 
 	for line in data.split('\n') : 
 		if line != '' :
 			movie_names_array.append(line.split('|')[1])
 			movie_release_date_array.append(line.split('|')[2])
+			movie_urls_array.append(line.split('|')[4])
 			genres = line.split('|')[5:]
 			genres_ = []
 			for i in range(len(genres)) : 
@@ -22,4 +24,4 @@ def parse_dataset() :
 					genres_.append(genres_list[i])
 			movie_genres_array.append(genres_)
 
-	return movie_names_array, movie_release_date_array, movie_genres_array
+	return movie_names_array, movie_release_date_array, movie_genres_array, movie_urls_array
