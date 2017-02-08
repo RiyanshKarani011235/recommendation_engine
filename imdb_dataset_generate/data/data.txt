@@ -1,4 +1,4 @@
-542
+366
 Toy Story (1995)||01-Jan-1995||Animation&&Children's&&Comedy||USA||John Lasseter||Tom Hanks&&Tim Allen&&Don Rickles
 GoldenEye (1995)||01-Jan-1995||Action&&Adventure&&Thriller||UK||Martin Campbell||Pierce Brosnan&&Sean Bean&&Izabella Scorupco
 Four Rooms (1995)||
@@ -55,7 +55,7 @@ Natural Born Killers (1994)||01-Jan-1994||Action&&Thriller||USA||Oliver Stone||W
 Outbreak (1995)||01-Jan-1995||Action&&Drama&&Thriller||USA||Wolfgang Petersen||Dustin Hoffman&&Rene Russo&&Morgan Freeman
 Professional, The (1994)||
 Pulp Fiction (1994)||01-Jan-1994||Crime&&Drama||USA||Quentin Tarantino||John Travolta&&Uma Thurman&&Samuel L. Jackson
-Priest (1994)||01-Jan-1994||Drama||UK||Antonia Bird||Linus Roache&&Tom Wilkinson&&Robert Carlyle
+Priest (1994)||
 Quiz Show (1994)||01-Jan-1994||Drama||USA||Robert Redford||Ralph Fiennes&&John Turturro&&Rob Morrow
 Three Colors: Red (1994)||
 Three Colors: Blue (1993)||
@@ -104,7 +104,7 @@ Aristocats, The (1970)||
 All Dogs Go to Heaven 2 (1996)||
 Theodore Rex (1995)||29-Mar-1996||Comedy||USA||Jonathan R. Betuel||Whoopi Goldberg&&Armin Mueller-Stahl&&Juliet Landau
 Sgt. Bilko (1996)||29-Mar-1996||Comedy||USA||Jonathan Lynn||Steve Martin&&Dan Aykroyd&&Phil Hartman
-Diabolique (1996)||
+Diabolique (1996)||01-Jan-1996||Drama&&Thriller||USA||Jeremiah S. Chechik||Sharon Stone&&Isabelle Adjani&&Chazz Palminteri
 Moll Flanders (1996)||
 Kids in the Hall: Brain Candy (1996)||
 Mystery Science Theater 3000: The Movie (1996)||
@@ -154,7 +154,7 @@ Sleeper (1973)||01-Jan-1973||Comedy&&Sci-Fi||USA||Woody Allen||Woody Allen&&Dian
 Fish Called Wanda, A (1988)||
 Monty Python's Life of Brian (1979)||
 Dirty Dancing (1987)||01-Jan-1987||Musical&&Romance||USA||Emile Ardolino||Patrick Swayze&&Jennifer Grey&&Jerry Orbach
-Reservoir Dogs (1992)||
+Reservoir Dogs (1992)||01-Jan-1992||Crime&&Thriller||USA||Quentin Tarantino||Harvey Keitel&&Tim Roth&&Michael Madsen
 Platoon (1986)||01-Jan-1986||Drama&&War||UK||Oliver Stone||Charlie Sheen&&Tom Berenger&&Willem Dafoe
 Weekend at Bernie's (1989)||01-Jan-1989||Comedy||USA||Ted Kotcheff||Andrew McCarthy&&Jonathan Silverman&&Catherine Mary Stewart
 Basic Instinct (1992)||01-Jan-1992||Mystery&&Thriller||France||Paul Verhoeven||Michael Douglas&&Sharon Stone&&George Dzundza
@@ -188,7 +188,7 @@ Blues Brothers, The (1980)||
 Godfather: Part II, The (1974)||
 Full Metal Jacket (1987)||01-Jan-1987||Action&&Drama&&War||UK||Stanley Kubrick||Matthew Modine&&R. Lee Ermey&&Vincent D'Onofrio
 Grand Day Out, A (1992)||
-Henry V (1989)||01-Jan-1989||Drama&&War||UK||Kenneth Branagh||Kenneth Branagh&&Derek Jacobi&&Simon Shepherd
+Henry V (1989)||
 Amadeus (1984)||01-Jan-1984||Drama&&Mystery||USA||Milos Forman||F. Murray Abraham&&Tom Hulce&&Elizabeth Berridge
 Raging Bull (1980)||01-Jan-1980||Drama||USA||Martin Scorsese||Robert De Niro&&Cathy Moriarty&&Joe Pesci
 Right Stuff, The (1983)||
@@ -200,13 +200,13 @@ Nikita (La Femme Nikita) (1990)||
 Bridge on the River Kwai, The (1957)||
 Shining, The (1980)||
 Evil Dead II (1987)||01-Jan-1987||Action&&Adventure&&Comedy&&Horror||USA||Sam Raimi||Bruce Campbell&&Sarah Berry&&Dan Hicks
-Groundhog Day (1993)||
+Groundhog Day (1993)||01-Jan-1993||Comedy&&Romance||USA||Harold Ramis||Bill Murray&&Andie MacDowell&&Chris Elliott
 Unforgiven (1992)||
-Back to the Future (1985)||
-Patton (1970)||
-Akira (1988)||
-Cyrano de Bergerac (1990)||
-Young Frankenstein (1974)||
+Back to the Future (1985)||01-Jan-1985||Comedy&&Sci-Fi||USA||Robert Zemeckis||Michael J. Fox&&Christopher Lloyd&&Lea Thompson
+Patton (1970)||01-Jan-1970||Drama&&War||USA||Franklin J. Schaffner||George C. Scott&&Karl Malden&&Stephen Young
+Akira (1988)||01-Jan-1988||Adventure&&Animation&&Sci-Fi&&Thriller||Japan||Katsuhiro Ôtomo||Nozomu Sasaki&&Mami Koyama&&Mitsuo Iwata
+Cyrano de Bergerac (1990)||01-Jan-1990||Action&&Drama&&Romance||France||Jean-Paul Rappeneau||Gérard Depardieu&&Anne Brochet&&Vincent Perez
+Young Frankenstein (1974)||01-Jan-1974||Comedy&&Horror||USA||Mel Brooks||Gene Wilder&&Madeline Kahn&&Marty Feldman
 This Is Spinal Tap (1984)||
 Indiana Jones and the Last Crusade (1989)||01-Jan-1989||Action&&Adventure||USA||Steven Spielberg||Harrison Ford&&Sean Connery&&Alison Doody
 M*A*S*H (1970)||
@@ -221,7 +221,7 @@ Nightmare on Elm Street, A (1984)||
 Mirror Has Two Faces, The (1996)||
 Breaking the Waves (1996)||15-Nov-1996||Drama||Denmark||Lars von Trier||Emily Watson&&Stellan Skarsgård&&Katrin Cartlidge
 Star Trek: First Contact (1996)||
-Sling Blade (1996)||22-Nov-1996||Drama&&Thriller||USA||Billy Bob Thornton||Billy Bob Thornton&&Dwight Yoakam&&J.T. Walsh
+Sling Blade (1996)||
 Ridicule (1996)||27-Nov-1996||Drama||France||Patrice Leconte||Charles Berling&&Jean Rochefort&&Fanny Ardant
 101 Dalmatians (1996)||27-Nov-1996||Children's&&Comedy||USA||Stephen Herek||Glenn Close&&Jeff Daniels&&Joely Richardson
 Die Hard 2 (1990)||
@@ -237,8 +237,8 @@ Mars Attacks! (1996)||13-Dec-1996||Action&&Comedy&&Sci-Fi&&War||USA||Tim Burton|
 Citizen Ruth (1996)||
 Jerry Maguire (1996)||13-Dec-1996||Drama&&Romance||USA||Cameron Crowe||Tom Cruise&&Cuba Gooding Jr.&&Renée Zellweger
 Raising Arizona (1987)||01-Jan-1987||Comedy||USA||None||Nicolas Cage&&Holly Hunter&&Trey Wilson
-Sneakers (1992)||
-Beavis and Butt-head Do America (1996)||
+Sneakers (1992)||01-Jan-1992||Crime&&Drama&&Sci-Fi||USA||Phil Alden Robinson||Robert Redford&&Dan Aykroyd&&Sidney Poitier
+Beavis and Butt-head Do America (1996)||20-Dec-1996||Animation&&Comedy||USA||None||Mike Judge&&Bruce Willis&&Demi Moore
 Last of the Mohicans, The (1992)||
 Kolya (1996)||
 Jungle2Jungle (1997)||
@@ -346,7 +346,7 @@ Apostle, The (1997)||
 Deconstructing Harry (1997)||01-Jan-1997||Comedy&&Drama||USA||Woody Allen||Woody Allen&&Judy Davis&&Julia Louis-Dreyfus
 Jackie Brown (1997)||01-Jan-1997||Crime&&Drama||USA||Quentin Tarantino||Pam Grier&&Samuel L. Jackson&&Robert Forster
 Wag the Dog (1997)||09-Jan-1998||Comedy&&Drama||USA||Barry Levinson||Dustin Hoffman&&Robert De Niro&&Anne Heche
-Desperate Measures (1998)||
+Desperate Measures (1998)||30-Jan-1998||Crime&&Drama&&Thriller||USA||Barbet Schroeder||Michael Keaton&&Andy Garcia&&Brian Cox
 Hard Rain (1998)||
 Fallen (1998)||16-Jan-1998||Action&&Mystery&&Thriller||USA||Gregory Hoblit||Denzel Washington&&John Goodman&&Donald Sutherland
 Prophecy II, The (1998)||
@@ -365,179 +365,3 @@ Sudden Death (1995)||
 Ace Ventura: When Nature Calls (1995)||
 Powder (1995)||01-Jan-1995||Drama||USA||Victor Salva||Mary Steenburgen&&Sean Patrick Flanery&&Lance Henriksen
 Dangerous Minds (1995)||
-Clueless (1995)||01-Jan-1995||Comedy||USA||Amy Heckerling||Alicia Silverstone&&Stacey Dash&&Brittany Murphy
-Bio-Dome (1996)||01-Jan-1996||Comedy||USA||Jason Bloom||Pauly Shore&&Stephen Baldwin&&William Atherton
-Black Sheep (1996)||
-Mary Reilly (1996)||
-Bridges of Madison County, The (1995)||
-Jeffrey (1995)||01-Jan-1995||Comedy||USA||Christopher Ashley||Steven Weber&&Michael T. Weiss&&Peter Jacobson
-Judge Dredd (1995)||01-Jan-1995||Action&&Adventure&&Sci-Fi||USA||Danny Cannon||Sylvester Stallone&&Armand Assante&&Rob Schneider
-Mighty Morphin Power Rangers: The Movie (1995)||01-Jan-1995||Action&&Children's||USA||Bryan Spicer||Karan Ashley&&Johnny Yong Bosch&&Steve Cardenas
-Showgirls (1995)||01-Jan-1995||Drama||France||Paul Verhoeven||Elizabeth Berkley&&Kyle MacLachlan&&Gina Gershon
-Houseguest (1994)||
-Heavyweights (1994)||
-Miracle on 34th Street (1994)||
-Tales From the Crypt Presents: Demon Knight (1995)||
-Star Trek: Generations (1994)||
-Muriel's Wedding (1994)||
-Adventures of Priscilla, Queen of the Desert, The (1994)||
-Flintstones, The (1994)||
-Naked Gun 33 1/3: The Final Insult (1994)||01-Jan-1994||Comedy||USA||Peter Segal||Leslie Nielsen&&Priscilla Presley&&George Kennedy
-True Lies (1994)||01-Jan-1994||Action&&Adventure&&Comedy&&Romance||USA||James Cameron||Arnold Schwarzenegger&&Jamie Lee Curtis&&Tom Arnold
-Addams Family Values (1993)||01-Jan-1993||Comedy||USA||Barry Sonnenfeld||Anjelica Huston&&Raul Julia&&Christopher Lloyd
-Age of Innocence, The (1993)||
-Beverly Hills Cop III (1994)||
-Black Beauty (1994)||
-Fear of a Black Hat (1993)||
-Last Action Hero (1993)||
-Man Without a Face, The (1993)||
-Mrs. Doubtfire (1993)||01-Jan-1993||Comedy||USA||Chris Columbus||Robin Williams&&Sally Field&&Pierce Brosnan
-Radioland Murders (1994)||01-Jan-1994||Comedy&&Mystery&&Romance||USA||Mel Smith||Brian Benben&&Mary Stuart Masterson&&Ned Beatty
-Robin Hood: Men in Tights (1993)||
-Serial Mom (1994)||01-Jan-1994||Comedy&&Crime&&Horror||USA||John Waters||Kathleen Turner&&Sam Waterston&&Ricki Lake
-Striking Distance (1993)||01-Jan-1993||Action||USA||Rowdy Herrington||Bruce Willis&&Sarah Jessica Parker&&Dennis Farina
-Super Mario Bros. (1993)||
-Three Musketeers, The (1993)||
-Little Rascals, The (1994)||
-Brady Bunch Movie, The (1995)||
-Ghost (1990)||01-Jan-1990||Comedy&&Romance&&Thriller||USA||Jerry Zucker||Patrick Swayze&&Demi Moore&&Whoopi Goldberg
-Batman (1989)||01-Jan-1989||Action&&Adventure&&Crime&&Drama||USA||Tim Burton||Michael Keaton&&Jack Nicholson&&Kim Basinger
-Pinocchio (1940)||01-Jan-1940||Animation&&Children's||USA||None||Dickie Jones&&Christian Rub&&Mel Blanc
-Mission: Impossible (1996)||22-May-1996||Action&&Adventure&&Mystery||USA||Brian De Palma||Tom Cruise&&Jon Voight&&Emmanuelle Béart
-Thinner (1996)||25-Oct-1996||Horror&&Thriller||USA||Tom Holland||Joe Mantegna&&Robert John Burke&&Lucinda Jenney
-Spy Hard (1996)||
-Close Shave, A (1995)||
-Jack (1996)||07-Aug-1996||Comedy&&Drama||USA||Francis Ford Coppola||Robin Williams&&Diane Lane&&Brian Kerwin
-Kingpin (1996)||12-Jul-1996||Comedy||USA||None||Woody Harrelson&&Randy Quaid&&Bill Murray
-Nutty Professor, The (1996)||
-Very Brady Sequel, A (1996)||
-Tales from the Crypt Presents: Bordello of Blood (1996)||
-My Favorite Year (1982)||
-Apple Dumpling Gang, The (1975)||
-Old Yeller (1957)||
-Parent Trap, The (1961)||
-Cinderella (1950)||01-Jan-1950||Animation&&Children's&&Musical||USA||None||Ilene Woods&&James MacDonald&&Eleanor Audley
-Mary Poppins (1964)||
-Alice in Wonderland (1951)||01-Jan-1951||Animation&&Children's&&Musical||USA||None||Kathryn Beaumont&&Ed Wynn&&Richard Haydn
-William Shakespeare's Romeo and Juliet (1996)||
-Aladdin and the King of Thieves (1996)||01-Jan-1996||Animation&&Children's&&Comedy||USA||Tad Stones||Scott Weinger&&Robin Williams&&John Rhys-Davies
-E.T. the Extra-Terrestrial (1982)||01-Jan-1982||Children's&&Drama&&Fantasy&&Sci-Fi||USA||Steven Spielberg||Henry Thomas&&Drew Barrymore&&Peter Coyote
-Children of the Corn: The Gathering (1996)||
-Bob Roberts (1992)||
-Transformers: The Movie, The (1986)||
-To Kill a Mockingbird (1962)||
-Harold and Maude (1971)||01-Jan-1971||Comedy||USA||Hal Ashby||Ruth Gordon&&Bud Cort&&Vivian Pickles
-Day the Earth Stood Still, The (1951)||
-Duck Soup (1933)||
-Highlander (1986)||01-Jan-1986||Action&&Adventure||UK||Russell Mulcahy||Christopher Lambert&&Sean Connery&&Clancy Brown
-Fantasia (1940)||01-Jan-1940||Animation&&Children's&&Musical||USA||None||Leopold Stokowski&&Deems Taylor&&Corey Burton
-Heathers (1989)||
-Forbidden Planet (1956)||01-Jan-1956||Sci-Fi||USA||Fred M. Wilcox||Walter Pidgeon&&Anne Francis&&Leslie Nielsen
-Butch Cassidy and the Sundance Kid (1969)||01-Jan-1969||Action&&Comedy&&Western||USA||George Roy Hill||Paul Newman&&Robert Redford&&Katharine Ross
-American Werewolf in London, An (1981)||
-Amityville 1992: It's About Time (1992)||
-Amityville 3-D (1983)||01-Jan-1983||Horror||USA||Richard Fleischer||Tony Roberts&&Tess Harper&&Robert Joy
-Amityville: A New Generation (1993)||
-Amityville II: The Possession (1982)||01-Jan-1982||Horror||Mexico||Damiano Damiani||James Olson&&Burt Young&&Rutanya Alda
-Amityville Horror, The (1979)||
-Amityville Curse, The (1990)||
-Birds, The (1963)||
-Blob, The (1958)||
-Body Snatcher, The (1945)||
-Burnt Offerings (1976)||01-Jan-1976||Horror||USA||Dan Curtis||Karen Black&&Oliver Reed&&Burgess Meredith
-Carrie (1976)||01-Jan-1976||Horror||USA||Brian De Palma||Sissy Spacek&&Piper Laurie&&Amy Irving
-Omen, The (1976)||
-Star Trek: The Motion Picture (1979)||
-Star Trek V: The Final Frontier (1989)||
-Grease (1978)||01-Jan-1978||Comedy&&Musical&&Romance||USA||Randal Kleiser||John Travolta&&Olivia Newton-John&&Stockard Channing
-Jaws 2 (1978)||01-Jan-1978||Action&&Horror||USA||Jeannot Szwarc||Roy Scheider&&Lorraine Gary&&Murray Hamilton
-Jaws 3-D (1983)||01-Jan-1983||Action&&Horror||USA||Joe Alves||Dennis Quaid&&Bess Armstrong&&Simon MacCorkindale
-Bastard Out of Carolina (1996)||
-Jackie Chan's First Strike (1996)||
-Beverly Hills Ninja (1997)||17-Jan-1997||Action&&Comedy||USA||Dennis Dugan||Chris Farley&&Nicollette Sheridan&&Robin Shou
-Free Willy 3: The Rescue (1997)||
-Nixon (1995)||01-Jan-1995||Drama||USA||Oliver Stone||Anthony Hopkins&&Joan Allen&&Powers Boothe
-Cry, the Beloved Country (1995)||01-Jan-1995||Drama||South Africa||Darrell Roodt||Richard Harris&&James Earl Jones&&Vusi Kunene
-Crossing Guard, The (1995)||
-Smoke (1995)||01-Jan-1995||Drama||Germany||None||Harvey Keitel&&William Hurt&&Giancarlo Esposito
-Like Water For Chocolate (Como agua para chocolate) (1992)||
-Secret of Roan Inish, The (1994)||
-Vanya on 42nd Street (1994)||01-Jan-1994||Drama||USA||Louis Malle||Wallace Shawn&&Phoebe Brand&&George Gaynes
-Jungle Book, The (1994)||
-Red Rock West (1992)||
-Bronx Tale, A (1993)||
-Rudy (1993)||01-Jan-1993||Drama||USA||David Anspaugh||Sean Astin&&Jon Favreau&&Ned Beatty
-Short Cuts (1993)||
-Tombstone (1993)||01-Jan-1993||Western||USA||None||Kurt Russell&&Val Kilmer&&Sam Elliott
-Courage Under Fire (1996)||08-Mar-1996||Drama&&War||USA||Edward Zwick||Denzel Washington&&Meg Ryan&&Lou Diamond Phillips
-Dragonheart (1996)||31-May-1996||Action&&Adventure&&Fantasy||USA||Rob Cohen||Dennis Quaid&&Sean Connery&&Dina Meyer
-James and the Giant Peach (1996)||
-Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)||
-Trainspotting (1996)||19-Jul-1996||Drama||UK||Danny Boyle||Ewan McGregor&&Ewen Bremner&&Jonny Lee Miller
-First Wives Club, The (1996)||
-Matilda (1996)||02-Aug-1996||Children's&&Comedy||USA||Danny DeVito||Danny DeVito&&Rhea Perlman&&Mara Wilson
-Philadelphia Story, The (1940)||
-Vertigo (1958)||01-Jan-1958||Mystery&&Thriller||USA||Alfred Hitchcock||James Stewart&&Kim Novak&&Barbara Bel Geddes
-North by Northwest (1959)||01-Jan-1959||Comedy&&Thriller||USA||Alfred Hitchcock||Cary Grant&&Eva Marie Saint&&James Mason
-Apartment, The (1960)||
-Some Like It Hot (1959)||01-Jan-1959||Comedy&&Crime||USA||Billy Wilder||Marilyn Monroe&&Tony Curtis&&Jack Lemmon
-Casablanca (1942)||01-Jan-1942||Drama&&Romance&&War||USA||Michael Curtiz||Humphrey Bogart&&Ingrid Bergman&&Paul Henreid
-Maltese Falcon, The (1941)||
-My Fair Lady (1964)||
-Sabrina (1954)||01-Jan-1954||Comedy&&Romance||USA||Billy Wilder||Humphrey Bogart&&Audrey Hepburn&&William Holden
-Roman Holiday (1953)||
-Sunset Blvd. (1950)||01-Jan-1950||Film-Noir||USA||Billy Wilder||William Holden&&Gloria Swanson&&Erich von Stroheim
-Notorious (1946)||01-Jan-1946||Film-Noir&&Romance&&Thriller||USA||Alfred Hitchcock||Cary Grant&&Ingrid Bergman&&Claude Rains
-To Catch a Thief (1955)||
-Adventures of Robin Hood, The (1938)||
-East of Eden (1955)||
-Thin Man, The (1934)||
-His Girl Friday (1940)||
-Around the World in 80 Days (1956)||
-It's a Wonderful Life (1946)||
-Bringing Up Baby (1938)||01-Jan-1938||Comedy||USA||Howard Hawks||Katharine Hepburn&&Cary Grant&&Charles Ruggles
-African Queen, The (1951)||
-Cat on a Hot Tin Roof (1958)||
-Fly Away Home (1996)||
-Dumbo (1941)||01-Jan-1941||Animation&&Children's&&Musical||USA||None||Sterling Holloway&&Edward Brophy&&James Baskett
-Bananas (1971)||01-Jan-1971||Comedy&&War||USA||Woody Allen||Woody Allen&&Louise Lasser&&Carlos Montalbán
-Candidate, The (1972)||
-Bonnie and Clyde (1967)||01-Jan-1967||Crime&&Drama||USA||Arthur Penn||Warren Beatty&&Faye Dunaway&&Michael J. Pollard
-Dial M for Murder (1954)||01-Jan-1954||Mystery&&Thriller||USA||Alfred Hitchcock||Ray Milland&&Grace Kelly&&Robert Cummings
-Rebel Without a Cause (1955)||
-Streetcar Named Desire, A (1951)||
-People vs. Larry Flynt, The (1996)||
-My Left Foot (1989)||
-Magnificent Seven, The (1954)||
-Lawrence of Arabia (1962)||01-Jan-1962||Adventure&&War||UK||David Lean||Peter O'Toole&&Alec Guinness&&Anthony Quinn
-Wings of Desire (1987)||
-Third Man, The (1949)||
-Annie Hall (1977)||01-Jan-1977||Comedy&&Romance||USA||Woody Allen||Woody Allen&&Diane Keaton&&Tony Roberts
-Boot, Das (1981)||
-Local Hero (1983)||01-Jan-1983||Comedy||UK||Bill Forsyth||Burt Lancaster&&Peter Riegert&&Fulton Mackay
-Manhattan (1979)||01-Jan-1979||Comedy&&Drama&&Romance||USA||Woody Allen||Woody Allen&&Diane Keaton&&Mariel Hemingway
-Miller's Crossing (1990)||
-Treasure of the Sierra Madre, The (1948)||
-Great Escape, The (1963)||
-Deer Hunter, The (1978)||
-Down by Law (1986)||
-Cool Hand Luke (1967)||01-Jan-1967||Comedy&&Drama||USA||Stuart Rosenberg||Paul Newman&&George Kennedy&&Strother Martin
-Great Dictator, The (1940)||
-Big Sleep, The (1946)||
-Ben-Hur (1959)||01-Jan-1959||Action&&Adventure&&Drama||USA||William Wyler||Charlton Heston&&Jack Hawkins&&Stephen Boyd
-Gandhi (1982)||01-Jan-1982||Drama||UK||Richard Attenborough||Ben Kingsley&&John Gielgud&&Candice Bergen
-Killing Fields, The (1984)||
-My Life as a Dog (Mitt liv som hund) (1985)||
-Man Who Would Be King, The (1975)||
-Shine (1996)||22-Nov-1996||Drama&&Romance||Australia||Scott Hicks||Geoffrey Rush&&Armin Mueller-Stahl&&Justin Braine
-Kama Sutra: A Tale of Love (1996)||
-Daytrippers, The (1996)||
-Traveller (1997)||18-Apr-1997||Drama||USA||Jack N. Green||Bill Paxton&&Mark Wahlberg&&Julianna Margulies
-Addicted to Love (1997)||23-May-1997||Comedy&&Romance||USA||Griffin Dunne||Meg Ryan&&Matthew Broderick&&Kelly Preston
-Ponette (1996)||23-May-1997||Drama||France||Jacques Doillon||Victoire Thivisol&&Delphine Schiltz&&Matiaz Bureau Caton
-My Own Private Idaho (1991)||
-Anastasia (1997)||01-Jan-1997||Animation&&Children's&&Musical||USA||None||Meg Ryan&&John Cusack&&Christopher Lloyd
-Mouse Hunt (1997)||
-Money Train (1995)||01-Jan-1995||Action||USA||Joseph Ruben||Wesley Snipes&&Woody Harrelson&&Jennifer Lopez
-Mortal Kombat (1995)||01-Jan-1995||Action&&Adventure||USA||Paul W.S. Anderson||Christopher Lambert&&Robin Shou&&Linden Ashby
-Pocahontas (1995)||01-Jan-1995||Animation&&Children's&&Musical&&Romance||USA||None||Mel Gibson&&Linda Hunt&&Christian Bale
