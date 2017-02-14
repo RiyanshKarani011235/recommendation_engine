@@ -1,4 +1,4 @@
-366
+1681
 Toy Story (1995)||01-Jan-1995||Animation&&Children's&&Comedy||USA||John Lasseter||Tom Hanks&&Tim Allen&&Don Rickles
 GoldenEye (1995)||01-Jan-1995||Action&&Adventure&&Thriller||UK||Martin Campbell||Pierce Brosnan&&Sean Bean&&Izabella Scorupco
 Four Rooms (1995)||
@@ -365,3 +365,1187 @@ Sudden Death (1995)||
 Ace Ventura: When Nature Calls (1995)||
 Powder (1995)||01-Jan-1995||Drama||USA||Victor Salva||Mary Steenburgen&&Sean Patrick Flanery&&Lance Henriksen
 Dangerous Minds (1995)||
+Clueless (1995)||01-Jan-1995||Comedy||USA||Amy Heckerling||Alicia Silverstone&&Stacey Dash&&Brittany Murphy
+Bio-Dome (1996)||01-Jan-1996||Comedy||USA||Jason Bloom||Pauly Shore&&Stephen Baldwin&&William Atherton
+Black Sheep (1996)||
+Mary Reilly (1996)||
+Bridges of Madison County, The (1995)||
+Jeffrey (1995)||01-Jan-1995||Comedy||USA||Christopher Ashley||Steven Weber&&Michael T. Weiss&&Peter Jacobson
+Judge Dredd (1995)||01-Jan-1995||Action&&Adventure&&Sci-Fi||USA||Danny Cannon||Sylvester Stallone&&Armand Assante&&Rob Schneider
+Mighty Morphin Power Rangers: The Movie (1995)||01-Jan-1995||Action&&Children's||USA||Bryan Spicer||Karan Ashley&&Johnny Yong Bosch&&Steve Cardenas
+Showgirls (1995)||01-Jan-1995||Drama||France||Paul Verhoeven||Elizabeth Berkley&&Kyle MacLachlan&&Gina Gershon
+Houseguest (1994)||
+Heavyweights (1994)||
+Miracle on 34th Street (1994)||
+Tales From the Crypt Presents: Demon Knight (1995)||
+Star Trek: Generations (1994)||
+Muriel's Wedding (1994)||
+Adventures of Priscilla, Queen of the Desert, The (1994)||
+Flintstones, The (1994)||
+Naked Gun 33 1/3: The Final Insult (1994)||01-Jan-1994||Comedy||USA||Peter Segal||Leslie Nielsen&&Priscilla Presley&&George Kennedy
+True Lies (1994)||01-Jan-1994||Action&&Adventure&&Comedy&&Romance||USA||James Cameron||Arnold Schwarzenegger&&Jamie Lee Curtis&&Tom Arnold
+Addams Family Values (1993)||01-Jan-1993||Comedy||USA||Barry Sonnenfeld||Anjelica Huston&&Raul Julia&&Christopher Lloyd
+Age of Innocence, The (1993)||
+Beverly Hills Cop III (1994)||
+Black Beauty (1994)||
+Fear of a Black Hat (1993)||
+Last Action Hero (1993)||
+Man Without a Face, The (1993)||
+Mrs. Doubtfire (1993)||01-Jan-1993||Comedy||USA||Chris Columbus||Robin Williams&&Sally Field&&Pierce Brosnan
+Radioland Murders (1994)||01-Jan-1994||Comedy&&Mystery&&Romance||USA||Mel Smith||Brian Benben&&Mary Stuart Masterson&&Ned Beatty
+Robin Hood: Men in Tights (1993)||
+Serial Mom (1994)||
+Striking Distance (1993)||01-Jan-1993||Action||USA||Rowdy Herrington||Bruce Willis&&Sarah Jessica Parker&&Dennis Farina
+Super Mario Bros. (1993)||
+Three Musketeers, The (1993)||
+Little Rascals, The (1994)||
+Brady Bunch Movie, The (1995)||
+Ghost (1990)||01-Jan-1990||Comedy&&Romance&&Thriller||USA||Jerry Zucker||Patrick Swayze&&Demi Moore&&Whoopi Goldberg
+Batman (1989)||01-Jan-1989||Action&&Adventure&&Crime&&Drama||USA||Tim Burton||Michael Keaton&&Jack Nicholson&&Kim Basinger
+Pinocchio (1940)||01-Jan-1940||Animation&&Children's||USA||None||Dickie Jones&&Christian Rub&&Mel Blanc
+Mission: Impossible (1996)||22-May-1996||Action&&Adventure&&Mystery||USA||Brian De Palma||Tom Cruise&&Jon Voight&&Emmanuelle Béart
+Thinner (1996)||25-Oct-1996||Horror&&Thriller||USA||Tom Holland||Joe Mantegna&&Robert John Burke&&Lucinda Jenney
+Spy Hard (1996)||
+Close Shave, A (1995)||
+Jack (1996)||07-Aug-1996||Comedy&&Drama||USA||Francis Ford Coppola||Robin Williams&&Diane Lane&&Brian Kerwin
+Kingpin (1996)||12-Jul-1996||Comedy||USA||None||Woody Harrelson&&Randy Quaid&&Bill Murray
+Nutty Professor, The (1996)||
+Very Brady Sequel, A (1996)||
+Tales from the Crypt Presents: Bordello of Blood (1996)||
+My Favorite Year (1982)||
+Apple Dumpling Gang, The (1975)||
+Old Yeller (1957)||
+Parent Trap, The (1961)||
+Cinderella (1950)||01-Jan-1950||Animation&&Children's&&Musical||USA||None||Ilene Woods&&James MacDonald&&Eleanor Audley
+Mary Poppins (1964)||
+Alice in Wonderland (1951)||01-Jan-1951||Animation&&Children's&&Musical||USA||None||Kathryn Beaumont&&Ed Wynn&&Richard Haydn
+William Shakespeare's Romeo and Juliet (1996)||
+Aladdin and the King of Thieves (1996)||
+E.T. the Extra-Terrestrial (1982)||01-Jan-1982||Children's&&Drama&&Fantasy&&Sci-Fi||USA||Steven Spielberg||Henry Thomas&&Drew Barrymore&&Peter Coyote
+Children of the Corn: The Gathering (1996)||
+Bob Roberts (1992)||
+Transformers: The Movie, The (1986)||
+To Kill a Mockingbird (1962)||
+Harold and Maude (1971)||01-Jan-1971||Comedy||USA||Hal Ashby||Ruth Gordon&&Bud Cort&&Vivian Pickles
+Day the Earth Stood Still, The (1951)||
+Duck Soup (1933)||
+Highlander (1986)||01-Jan-1986||Action&&Adventure||UK||Russell Mulcahy||Christopher Lambert&&Sean Connery&&Clancy Brown
+Fantasia (1940)||01-Jan-1940||Animation&&Children's&&Musical||USA||None||Leopold Stokowski&&Deems Taylor&&Corey Burton
+Heathers (1989)||
+Forbidden Planet (1956)||01-Jan-1956||Sci-Fi||USA||Fred M. Wilcox||Walter Pidgeon&&Anne Francis&&Leslie Nielsen
+Butch Cassidy and the Sundance Kid (1969)||01-Jan-1969||Action&&Comedy&&Western||USA||George Roy Hill||Paul Newman&&Robert Redford&&Katharine Ross
+American Werewolf in London, An (1981)||
+Amityville 1992: It's About Time (1992)||
+Amityville 3-D (1983)||01-Jan-1983||Horror||USA||Richard Fleischer||Tony Roberts&&Tess Harper&&Robert Joy
+Amityville: A New Generation (1993)||
+Amityville II: The Possession (1982)||01-Jan-1982||Horror||Mexico||Damiano Damiani||James Olson&&Burt Young&&Rutanya Alda
+Amityville Horror, The (1979)||
+Amityville Curse, The (1990)||
+Birds, The (1963)||
+Blob, The (1958)||
+Body Snatcher, The (1945)||
+Burnt Offerings (1976)||01-Jan-1976||Horror||USA||Dan Curtis||Karen Black&&Oliver Reed&&Burgess Meredith
+Carrie (1976)||01-Jan-1976||Horror||USA||Brian De Palma||Sissy Spacek&&Piper Laurie&&Amy Irving
+Omen, The (1976)||
+Star Trek: The Motion Picture (1979)||
+Star Trek V: The Final Frontier (1989)||
+Grease (1978)||01-Jan-1978||Comedy&&Musical&&Romance||USA||Randal Kleiser||John Travolta&&Olivia Newton-John&&Stockard Channing
+Jaws 2 (1978)||01-Jan-1978||Action&&Horror||USA||Jeannot Szwarc||Roy Scheider&&Lorraine Gary&&Murray Hamilton
+Jaws 3-D (1983)||01-Jan-1983||Action&&Horror||USA||Joe Alves||Dennis Quaid&&Bess Armstrong&&Simon MacCorkindale
+Bastard Out of Carolina (1996)||
+Jackie Chan's First Strike (1996)||
+Beverly Hills Ninja (1997)||17-Jan-1997||Action&&Comedy||USA||Dennis Dugan||Chris Farley&&Nicollette Sheridan&&Robin Shou
+Free Willy 3: The Rescue (1997)||
+Nixon (1995)||01-Jan-1995||Drama||USA||Oliver Stone||Anthony Hopkins&&Joan Allen&&Powers Boothe
+Cry, the Beloved Country (1995)||01-Jan-1995||Drama||South Africa||Darrell Roodt||Richard Harris&&James Earl Jones&&Vusi Kunene
+Crossing Guard, The (1995)||
+Smoke (1995)||01-Jan-1995||Drama||Germany||None||Harvey Keitel&&William Hurt&&Giancarlo Esposito
+Like Water For Chocolate (Como agua para chocolate) (1992)||
+Secret of Roan Inish, The (1994)||
+Vanya on 42nd Street (1994)||01-Jan-1994||Drama||USA||Louis Malle||Wallace Shawn&&Phoebe Brand&&George Gaynes
+Jungle Book, The (1994)||
+Red Rock West (1992)||
+Bronx Tale, A (1993)||
+Rudy (1993)||01-Jan-1993||Drama||USA||David Anspaugh||Sean Astin&&Jon Favreau&&Ned Beatty
+Short Cuts (1993)||
+Tombstone (1993)||01-Jan-1993||Western||USA||None||Kurt Russell&&Val Kilmer&&Sam Elliott
+Courage Under Fire (1996)||08-Mar-1996||Drama&&War||USA||Edward Zwick||Denzel Washington&&Meg Ryan&&Lou Diamond Phillips
+Dragonheart (1996)||31-May-1996||Action&&Adventure&&Fantasy||USA||Rob Cohen||Dennis Quaid&&Sean Connery&&Dina Meyer
+James and the Giant Peach (1996)||
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)||
+Trainspotting (1996)||
+First Wives Club, The (1996)||
+Matilda (1996)||02-Aug-1996||Children's&&Comedy||USA||Danny DeVito||Danny DeVito&&Rhea Perlman&&Mara Wilson
+Philadelphia Story, The (1940)||
+Vertigo (1958)||01-Jan-1958||Mystery&&Thriller||USA||Alfred Hitchcock||James Stewart&&Kim Novak&&Barbara Bel Geddes
+North by Northwest (1959)||01-Jan-1959||Comedy&&Thriller||USA||Alfred Hitchcock||Cary Grant&&Eva Marie Saint&&James Mason
+Apartment, The (1960)||
+Some Like It Hot (1959)||01-Jan-1959||Comedy&&Crime||USA||Billy Wilder||Marilyn Monroe&&Tony Curtis&&Jack Lemmon
+Casablanca (1942)||01-Jan-1942||Drama&&Romance&&War||USA||Michael Curtiz||Humphrey Bogart&&Ingrid Bergman&&Paul Henreid
+Maltese Falcon, The (1941)||
+My Fair Lady (1964)||
+Sabrina (1954)||01-Jan-1954||Comedy&&Romance||USA||Billy Wilder||Humphrey Bogart&&Audrey Hepburn&&William Holden
+Roman Holiday (1953)||
+Sunset Blvd. (1950)||
+Notorious (1946)||01-Jan-1946||Film-Noir&&Romance&&Thriller||USA||Alfred Hitchcock||Cary Grant&&Ingrid Bergman&&Claude Rains
+To Catch a Thief (1955)||
+Adventures of Robin Hood, The (1938)||
+East of Eden (1955)||
+Thin Man, The (1934)||
+His Girl Friday (1940)||
+Around the World in 80 Days (1956)||
+It's a Wonderful Life (1946)||
+Bringing Up Baby (1938)||01-Jan-1938||Comedy||USA||Howard Hawks||Katharine Hepburn&&Cary Grant&&Charles Ruggles
+African Queen, The (1951)||
+Cat on a Hot Tin Roof (1958)||
+Fly Away Home (1996)||
+Dumbo (1941)||01-Jan-1941||Animation&&Children's&&Musical||USA||None||Sterling Holloway&&Edward Brophy&&James Baskett
+Bananas (1971)||01-Jan-1971||Comedy&&War||USA||Woody Allen||Woody Allen&&Louise Lasser&&Carlos Montalbán
+Candidate, The (1972)||
+Bonnie and Clyde (1967)||01-Jan-1967||Crime&&Drama||USA||Arthur Penn||Warren Beatty&&Faye Dunaway&&Michael J. Pollard
+Dial M for Murder (1954)||01-Jan-1954||Mystery&&Thriller||USA||Alfred Hitchcock||Ray Milland&&Grace Kelly&&Robert Cummings
+Rebel Without a Cause (1955)||
+Streetcar Named Desire, A (1951)||
+People vs. Larry Flynt, The (1996)||
+My Left Foot (1989)||
+Magnificent Seven, The (1954)||
+Lawrence of Arabia (1962)||01-Jan-1962||Adventure&&War||UK||David Lean||Peter O'Toole&&Alec Guinness&&Anthony Quinn
+Wings of Desire (1987)||
+Third Man, The (1949)||
+Annie Hall (1977)||01-Jan-1977||Comedy&&Romance||USA||Woody Allen||Woody Allen&&Diane Keaton&&Tony Roberts
+Boot, Das (1981)||
+Local Hero (1983)||01-Jan-1983||Comedy||UK||Bill Forsyth||Burt Lancaster&&Peter Riegert&&Fulton Mackay
+Manhattan (1979)||01-Jan-1979||Comedy&&Drama&&Romance||USA||Woody Allen||Woody Allen&&Diane Keaton&&Mariel Hemingway
+Miller's Crossing (1990)||
+Treasure of the Sierra Madre, The (1948)||
+Great Escape, The (1963)||
+Deer Hunter, The (1978)||
+Down by Law (1986)||
+Cool Hand Luke (1967)||
+Great Dictator, The (1940)||
+Big Sleep, The (1946)||
+Ben-Hur (1959)||01-Jan-1959||Action&&Adventure&&Drama||USA||William Wyler||Charlton Heston&&Jack Hawkins&&Stephen Boyd
+Gandhi (1982)||01-Jan-1982||Drama||UK||Richard Attenborough||Ben Kingsley&&John Gielgud&&Candice Bergen
+Killing Fields, The (1984)||
+My Life as a Dog (Mitt liv som hund) (1985)||
+Man Who Would Be King, The (1975)||
+Shine (1996)||22-Nov-1996||Drama&&Romance||Australia||Scott Hicks||Geoffrey Rush&&Armin Mueller-Stahl&&Justin Braine
+Kama Sutra: A Tale of Love (1996)||
+Daytrippers, The (1996)||
+Traveller (1997)||18-Apr-1997||Drama||USA||Jack N. Green||Bill Paxton&&Mark Wahlberg&&Julianna Margulies
+Addicted to Love (1997)||23-May-1997||Comedy&&Romance||USA||Griffin Dunne||Meg Ryan&&Matthew Broderick&&Kelly Preston
+Ponette (1996)||23-May-1997||Drama||France||Jacques Doillon||Victoire Thivisol&&Delphine Schiltz&&Matiaz Bureau Caton
+My Own Private Idaho (1991)||
+Anastasia (1997)||01-Jan-1997||Animation&&Children's&&Musical||USA||None||Meg Ryan&&John Cusack&&Christopher Lloyd
+Mouse Hunt (1997)||
+Money Train (1995)||01-Jan-1995||Action||USA||Joseph Ruben||Wesley Snipes&&Woody Harrelson&&Jennifer Lopez
+Mortal Kombat (1995)||01-Jan-1995||Action&&Adventure||USA||Paul W.S. Anderson||Christopher Lambert&&Robin Shou&&Linden Ashby
+Pocahontas (1995)||01-Jan-1995||Animation&&Children's&&Musical&&Romance||USA||None||Mel Gibson&&Linda Hunt&&Christian Bale
+Mis�rables, Les (1995)||Things to Do in Denver when You're Dead (1995)||
+Vampire in Brooklyn (1995)||
+Broken Arrow (1996)||
+Young Poisoner's Handbook, The (1995)||
+NeverEnding Story III, The (1994)||
+Rob Roy (1995)||
+Die Hard: With a Vengeance (1995)||
+Lord of Illusions (1995)||
+Species (1995)||01-Jan-1995||Sci-Fi||USA||Roger Donaldson||Natasha Henstridge&&Michael Madsen&&Ben Kingsley
+Walk in the Clouds, A (1995)||
+Waterworld (1995)||01-Jan-1995||Action&&Adventure||USA||Kevin Reynolds||Kevin Costner&&Jeanne Tripplehorn&&Dennis Hopper
+White Man's Burden (1995)||
+Wild Bill (1995)||
+Farinelli: il castrato (1994)||
+Heavenly Creatures (1994)||01-Jan-1994||Drama&&Fantasy&&Thriller||New Zealand||Peter Jackson||Melanie Lynskey&&Kate Winslet&&Sarah Peirse
+Interview with the Vampire (1994)||
+Kid in King Arthur's Court, A (1995)||
+Mary Shelley's Frankenstein (1994)||
+Quick and the Dead, The (1995)||
+Stephen King's The Langoliers (1995)||
+Tales from the Hood (1995)||
+Village of the Damned (1995)||01-Jan-1995||Horror&&Thriller||USA||John Carpenter||Christopher Reeve&&Kirstie Alley&&Linda Kozlowski
+Clear and Present Danger (1994)||01-Jan-1994||Action&&Adventure&&Thriller||USA||Phillip Noyce||Harrison Ford&&Willem Dafoe&&Anne Archer
+Wes Craven's New Nightmare (1994)||
+Speed (1994)||01-Jan-1994||Action&&Romance&&Thriller||USA||Jan de Bont||Keanu Reeves&&Dennis Hopper&&Sandra Bullock
+Wolf (1994)||01-Jan-1994||Drama&&Horror||USA||Mike Nichols||Jack Nicholson&&Michelle Pfeiffer&&James Spader
+Wyatt Earp (1994)||01-Jan-1994||Western||USA||Lawrence Kasdan||Kevin Costner&&Dennis Quaid&&Gene Hackman
+Another Stakeout (1993)||
+Blown Away (1994)||01-Jan-1994||Action&&Thriller||USA||Stephen Hopkins||Jeff Bridges&&Tommy Lee Jones&&Suzy Amis
+Body Snatchers (1993)||
+Boxing Helena (1993)||01-Jan-1993||Mystery&&Romance&&Thriller||USA||Jennifer Lynch||Julian Sands&&Sherilyn Fenn&&Bill Paxton
+City Slickers II: The Legend of Curly's Gold (1994)||
+Cliffhanger (1993)||01-Jan-1993||Action&&Adventure&&Crime||USA||Renny Harlin||Sylvester Stallone&&John Lithgow&&Michael Rooker
+Coneheads (1993)||01-Jan-1993||Comedy&&Sci-Fi||USA||Steve Barron||Dan Aykroyd&&Jane Curtin&&Robert Knott
+Demolition Man (1993)||01-Jan-1993||Action&&Sci-Fi||USA||Marco Brambilla||Sylvester Stallone&&Wesley Snipes&&Sandra Bullock
+Fatal Instinct (1993)||
+Englishman Who Went Up a Hill, But Came Down a Mountain, The (1995)||
+Kalifornia (1993)||01-Jan-1993||Drama&&Thriller||USA||Dominic Sena||Brad Pitt&&Juliette Lewis&&Kathy Larson
+Piano, The (1993)||
+Romeo Is Bleeding (1993)||
+Secret Garden, The (1993)||
+Son in Law (1993)||
+Terminal Velocity (1994)||01-Jan-1994||Action||USA||Deran Sarafian||Charlie Sheen&&Nastassja Kinski&&James Gandolfini
+Hour of the Pig, The (1993)||
+Beauty and the Beast (1991)||01-Jan-1991||Animation&&Children's&&Musical||USA||None||Paige O'Hara&&Robby Benson&&Jesse Corti
+Wild Bunch, The (1969)||
+Hellraiser: Bloodline (1996)||08-Mar-1996||Action&&Horror&&Sci-Fi||USA||Kevin Yagher||Bruce Ramsay&&Valentina Vargas&&Doug Bradley
+Primal Fear (1996)||30-Mar-1996||Drama&&Thriller||USA||Gregory Hoblit||Richard Gere&&Laura Linney&&Edward Norton
+True Crime (1995)||
+Stalingrad (1993)||01-Jan-1993||War||Germany||Joseph Vilsmaier||Dominique Horwitz&&Thomas Kretschmann&&Sebastian Rudolph
+Heavy (1995)||05-Jun-1996||Drama&&Romance||USA||James Mangold||Pruitt Taylor Vince&&Shelley Winters&&Liv Tyler
+Fan, The (1996)||
+Hunchback of Notre Dame, The (1996)||
+Eraser (1996)||21-Jun-1996||Action&&Thriller||USA||Chuck Russell||Arnold Schwarzenegger&&Vanessa Williams&&James Caan
+Big Squeeze, The (1996)||
+Police Story 4: Project S (Chao ji ji hua) (1993)||
+Daniel Defoe's Robinson Crusoe (1996)||
+For Whom the Bell Tolls (1943)||
+American in Paris, An (1951)||
+Rear Window (1954)||01-Jan-1954||Mystery&&Thriller||USA||Alfred Hitchcock||James Stewart&&Grace Kelly&&Wendell Corey
+It Happened One Night (1934)||
+Meet Me in St. Louis (1944)||
+All About Eve (1950)||
+Rebecca (1940)||01-Jan-1940||Romance&&Thriller||USA||Alfred Hitchcock||Laurence Olivier&&Joan Fontaine&&George Sanders
+Spellbound (1945)||01-Jan-1945||Mystery&&Romance&&Thriller||USA||Alfred Hitchcock||Ingrid Bergman&&Gregory Peck&&Michael Chekhov
+Father of the Bride (1950)||
+Gigi (1958)||01-Jan-1958||Musical||USA||Vincente Minnelli||Leslie Caron&&Maurice Chevalier&&Louis Jourdan
+Laura (1944)||01-Jan-1944||Crime&&Film-Noir&&Mystery||USA||Otto Preminger||Gene Tierney&&Dana Andrews&&Clifton Webb
+Lost Horizon (1937)||
+My Man Godfrey (1936)||
+Giant (1956)||01-Jan-1956||Drama||USA||George Stevens||Elizabeth Taylor&&Rock Hudson&&James Dean
+39 Steps, The (1935)||
+Night of the Living Dead (1968)||
+Blue Angel, The (Blaue Engel, Der) (1930)||
+Picnic (1955)||01-Jan-1955||Drama||USA||Joshua Logan||William Holden&&Kim Novak&&Betty Field
+Extreme Measures (1996)||
+Chamber, The (1996)||
+Davy Crockett, King of the Wild Frontier (1955)||
+Swiss Family Robinson (1960)||01-Jan-1960||Adventure&&Children's||USA||Ken Annakin||John Mills&&Dorothy McGuire&&James MacArthur
+Angels in the Outfield (1994)||01-Jan-1994||Children's&&Comedy||USA||William Dear||Danny Glover&&Brenda Fricker&&Tony Danza
+Three Caballeros, The (1945)||
+Sword in the Stone, The (1963)||
+So Dear to My Heart (1949)||
+Robin Hood: Prince of Thieves (1991)||01-Jan-1991||Drama||USA||Kevin Reynolds||Kevin Costner&&Morgan Freeman&&Mary Elizabeth Mastrantonio
+Sleepers (1996)||18-Oct-1996||Crime&&Drama||USA||Barry Levinson||Robert De Niro&&Kevin Bacon&&Brad Pitt
+Victor/Victoria (1982)||
+Great Race, The (1965)||
+Crying Game, The (1992)||
+Sophie's Choice (1982)||
+Christmas Carol, A (1938)||
+Microcosmos: Le peuple de l'herbe (1996)||11-Oct-1996||Documentary||France||None||Kristin Scott Thomas&&Jacques Perrin
+Fog, The (1980)||
+Escape from New York (1981)||01-Jan-1981||Action&&Adventure&&Sci-Fi&&Thriller||UK||John Carpenter||Kurt Russell&&Lee Van Cleef&&Ernest Borgnine
+Howling, The (1981)||
+Return of Martin Guerre, The (Retour de Martin Guerre, Le) (1982)||
+Tin Drum, The (Blechtrommel, Die) (1979)||
+Cook the Thief His Wife & Her Lover, The (1989)||
+Paths of Glory (1957)||01-Jan-1957||Drama&&War||USA||Stanley Kubrick||Kirk Douglas&&Ralph Meeker&&Adolphe Menjou
+Grifters, The (1990)||
+The Innocent (1994)||
+Thin Blue Line, The (1988)||
+Paris Is Burning (1990)||01-Jan-1990||Documentary||USA||Jennie Livingston||André Christian&&Dorian Corey&&Paris Duprée
+Once Upon a Time in the West (1969)||
+Ran (1985)||01-Jan-1985||Drama&&War||Japan||Akira Kurosawa||Tatsuya Nakadai&&Akira Terao&&Jinpachi Nezu
+Quiet Man, The (1952)||
+Once Upon a Time in America (1984)||01-Jan-1984||Crime&&Drama&&Thriller||Italy||Sergio Leone||Robert De Niro&&James Woods&&Elizabeth McGovern
+Seventh Seal, The (Sjunde inseglet, Det) (1957)||
+Glory (1989)||01-Jan-1989||Action&&Drama&&War||USA||Edward Zwick||Matthew Broderick&&Denzel Washington&&Cary Elwes
+Rosencrantz and Guildenstern Are Dead (1990)||
+Touch of Evil (1958)||
+Chinatown (1974)||01-Jan-1974||Film-Noir&&Mystery&&Thriller||USA||Roman Polanski||Jack Nicholson&&Faye Dunaway&&John Huston
+Stand by Me (1986)||01-Jan-1986||Adventure&&Comedy&&Drama||USA||Rob Reiner||Wil Wheaton&&River Phoenix&&Corey Feldman
+M (1931)||01-Jan-1931||Crime&&Film-Noir&&Thriller||Germany||Fritz Lang||Peter Lorre&&Ellen Widmann&&Inge Landgut
+Manchurian Candidate, The (1962)||
+Pump Up the Volume (1990)||01-Jan-1990||Drama||Canada||Allan Moyle||Christian Slater&&Samantha Mathis&&Annie Ross
+Arsenic and Old Lace (1944)||01-Jan-1944||Comedy&&Mystery&&Thriller||USA||Frank Capra||Cary Grant&&Priscilla Lane&&Raymond Massey
+Fried Green Tomatoes (1991)||01-Jan-1991||Drama||USA||Jon Avnet||Kathy Bates&&Jessica Tandy&&Mary Stuart Masterson
+High Noon (1952)||
+Somewhere in Time (1980)||
+Being There (1979)||01-Jan-1979||Comedy||USA||Hal Ashby||Peter Sellers&&Shirley MacLaine&&Melvyn Douglas
+Paris, Texas (1984)||01-Jan-1984||Drama||West Germany||Wim Wenders||Harry Dean Stanton&&Nastassja Kinski&&Dean Stockwell
+Alien 3 (1992)||
+Blood For Dracula (Andy Warhol's Dracula) (1974)||
+Audrey Rose (1977)||01-Jan-1977||Horror||USA||Robert Wise||Anthony Hopkins&&Marsha Mason&&John Beck
+Blood Beach (1981)||
+Body Parts (1991)||
+Body Snatchers (1993)||
+Bride of Frankenstein (1935)||
+Candyman (1992)||01-Jan-1992||Horror||USA||Bernard Rose||Virginia Madsen&&Xander Berkeley&&Tony Todd
+Cape Fear (1962)||01-Jan-1962||Film-Noir&&Thriller||USA||J. Lee Thompson||Gregory Peck&&Robert Mitchum&&Polly Bergen
+Cat People (1982)||
+Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)||
+Crucible, The (1996)||
+Fire on the Mountain (1996)||
+Volcano (1997)||25-Apr-1997||Drama&&Thriller||USA||Mick Jackson||Tommy Lee Jones&&Anne Heche&&Gaby Hoffmann
+Conan the Barbarian (1981)||
+Kull the Conqueror (1997)||
+Wishmaster (1997)||01-Jan-1997||Horror||USA||Robert Kurtzman||Tammy Lauren&&Andrew Divoff&&Robert Englund
+I Know What You Did Last Summer (1997)||
+Rocket Man (1997)||
+In the Line of Fire (1993)||
+Executive Decision (1996)||09-Mar-1996||Action&&Thriller||USA||Stuart Baird||Kurt Russell&&Halle Berry&&Steven Seagal
+Perfect World, A (1993)||
+McHale's Navy (1997)||
+Leave It to Beaver (1997)||22-Aug-1997||Comedy||USA||Andy Cadiff||Christopher McDonald&&Janine Turner&&Cameron Finley
+Jackal, The (1997)||
+Seven Years in Tibet (1997)||
+Dark City (1998)||
+American President, The (1995)||
+Casino (1995)||01-Jan-1995||Drama||France||Martin Scorsese||Robert De Niro&&Sharon Stone&&Joe Pesci
+Persuasion (1995)||
+Kicking and Screaming (1995)||01-Jan-1995||Comedy&&Drama||USA||Noah Baumbach||Josh Hamilton&&Eric Stoltz&&Samuel Gould
+City Hall (1996)||
+Basketball Diaries, The (1995)||
+Browning Version, The (1994)||
+Little Women (1994)||
+Miami Rhapsody (1995)||01-Jan-1995||Comedy||USA||David Frankel||Sarah Jessica Parker&&Mia Farrow&&Antonio Banderas
+Wonderful, Horrible Life of Leni Riefenstahl, The (1993)||
+Barcelona (1994)||01-Jan-1994||Comedy&&Romance||USA||Whit Stillman||Taylor Nichols&&Chris Eigeman&&Tushka Bergen
+Widows' Peak (1994)||
+House of the Spirits, The (1993)||
+Singin' in the Rain (1952)||
+Bad Moon (1996)||
+Enchanted April (1991)||01-Jan-1991||Drama||UK||Mike Newell||Alfred Molina&&Joan Plowright&&Miranda Richardson
+Sex, Lies, and Videotape (1989)||01-Jan-1989||Drama||USA||Steven Soderbergh||James Spader&&Andie MacDowell&&Peter Gallagher
+Strictly Ballroom (1992)||01-Jan-1992||Comedy&&Romance||Australia||Baz Luhrmann||Paul Mercurio&&Tara Morice&&Bill Hunter
+Better Off Dead... (1985)||
+Substance of Fire, The (1996)||
+Tin Men (1987)||
+Othello (1995)||18-Dec-1995||Drama||USA||Oliver Parker||Laurence Fishburne&&Kenneth Branagh&&Irène Jacob
+Carrington (1995)||01-Jan-1995||Drama&&Romance||UK||Christopher Hampton||Emma Thompson&&Jonathan Pryce&&Steven Waddington
+To Die For (1995)||
+Home for the Holidays (1995)||
+Juror, The (1996)||
+In the Bleak Midwinter (1995)||
+Canadian Bacon (1994)||
+First Knight (1995)||
+Mallrats (1995)||01-Jan-1995||Comedy||USA||Kevin Smith||Shannen Doherty&&Jeremy London&&Jason Lee
+Nine Months (1995)||
+Boys on the Side (1995)||
+Circle of Friends (1995)||01-Jan-1995||Drama&&Romance||Ireland||Pat O'Connor||Chris O'Donnell&&Minnie Driver&&Geraldine O'Rawe
+Exit to Eden (1994)||01-Jan-1994||Comedy||USA||Garry Marshall||Dana Delany&&Dan Aykroyd&&Rosie O'Donnell
+Fluke (1995)||01-Jan-1995||Children's&&Drama||USA||Carlo Carlei||Matthew Modine&&Nancy Travis&&Samuel L. Jackson
+Immortal Beloved (1994)||01-Jan-1994||Drama&&Romance||UK||Bernard Rose||Gary Oldman&&Jeroen Krabbé&&Isabella Rossellini
+Junior (1994)||01-Jan-1994||Comedy&&Sci-Fi||USA||Ivan Reitman||Arnold Schwarzenegger&&Danny DeVito&&Emma Thompson
+Nell (1994)||01-Jan-1994||Drama||USA||Michael Apted||Jodie Foster&&Liam Neeson&&Natasha Richardson
+Queen Margot (Reine Margot, La) (1994)||
+Corrina, Corrina (1994)||01-Jan-1994||Comedy&&Drama&&Romance||USA||Jessie Nelson||Ray Liotta&&Whoopi Goldberg&&Tina Majorino
+Dave (1993)||
+Go Fish (1994)||
+Made in America (1993)||
+Philadelphia (1993)||01-Jan-1993||Drama||USA||Jonathan Demme||Tom Hanks&&Denzel Washington&&Roberta Maxwell
+Shadowlands (1993)||01-Jan-1993||Drama&&Romance||UK||Richard Attenborough||Anthony Hopkins&&Debra Winger&&Julian Fellowes
+Sirens (1994)||
+Threesome (1994)||01-Jan-1994||Comedy&&Romance||USA||Andrew Fleming||Lara Flynn Boyle&&Josh Charles&&Stephen Baldwin
+Pretty Woman (1990)||01-Jan-1990||Comedy&&Romance||USA||Garry Marshall||Richard Gere&&Julia Roberts&&Jason Alexander
+Jane Eyre (1996)||
+Last Supper, The (1995)||
+Ransom (1996)||08-Nov-1996||Drama&&Thriller||USA||Ron Howard||Mel Gibson&&Gary Sinise&&Rene Russo
+Crow: City of Angels, The (1996)||
+Michael Collins (1996)||
+Ruling Class, The (1972)||
+Real Genius (1985)||
+Benny & Joon (1993)||01-Jan-1993||Comedy&&Romance||USA||Jeremiah S. Chechik||Johnny Depp&&Mary Stuart Masterson&&Aidan Quinn
+Saint, The (1997)||
+MatchMaker, The (1997)||
+Amistad (1997)||18-Dec-1997||Drama||USA||Steven Spielberg||Djimon Hounsou&&Matthew McConaughey&&Anthony Hopkins
+Tomorrow Never Dies (1997)||01-Jan-1997||Action&&Romance&&Thriller||UK||Roger Spottiswoode||Pierce Brosnan&&Jonathan Pryce&&Michelle Yeoh
+Replacement Killers, The (1998)||
+Burnt By the Sun (1994)||
+Red Corner (1997)||
+Jumanji (1995)||01-Jan-1995||Action&&Adventure&&Children's&&Fantasy&&Sci-Fi||USA||Joe Johnston||Robin Williams&&Kirsten Dunst&&Bonnie Hunt
+Father of the Bride Part II (1995)||
+Across the Sea of Time (1995)||
+Lawnmower Man 2: Beyond Cyberspace (1996)||01-Jan-1996||Sci-Fi&&Thriller||USA||Farhad Mann||Patrick Bergin&&Matt Frewer&&Austin O'Brien
+Fair Game (1995)||
+Screamers (1995)||01-Jan-1995||Sci-Fi||Canada||Christian Duguay||Peter Weller&&Roy Dupuis&&Jennifer Rubin
+Nick of Time (1995)||
+Beautiful Girls (1996)||09-Feb-1996||Drama||USA||Ted Demme||Matt Dillon&&Timothy Hutton&&Noah Emmerich
+Happy Gilmore (1996)||16-Feb-1996||Comedy||USA||Dennis Dugan||Adam Sandler&&Christopher McDonald&&Julie Bowen
+If Lucy Fell (1996)||
+Boomerang (1992)||01-Jan-1992||Comedy&&Romance||USA||Reginald Hudlin||Eddie Murphy&&Robin Givens&&Halle Berry
+Man of the Year (1995)||
+Addiction, The (1995)||
+Casper (1995)||01-Jan-1995||Adventure&&Children's||USA||Brad Silberling||Bill Pullman&&Christina Ricci&&Cathy Moriarty
+Congo (1995)||01-Jan-1995||Action&&Adventure&&Mystery&&Sci-Fi||USA||Frank Marshall||Laura Linney&&Tim Curry&&Dylan Walsh
+Devil in a Blue Dress (1995)||
+Johnny Mnemonic (1995)||
+Kids (1995)||01-Jan-1995||Drama||USA||Larry Clark||Leo Fitzpatrick&&Justin Pierce&&Chloë Sevigny
+Mute Witness (1994)||
+Prophecy, The (1995)||
+Something to Talk About (1995)||
+Three Wishes (1995)||
+Castle Freak (1995)||01-Jan-1995||Horror||USA||Stuart Gordon||Jeffrey Combs&&Barbara Crampton&&Jonathan Fuller
+Don Juan DeMarco (1995)||
+Drop Zone (1994)||01-Jan-1994||Action||USA||John Badham||Wesley Snipes&&Gary Busey&&Yancy Butler
+Dumb & Dumber (1994)||01-Jan-1994||Comedy||USA||None||Jim Carrey&&Jeff Daniels&&Lauren Holly
+French Kiss (1995)||
+Little Odessa (1994)||
+Milk Money (1994)||01-Jan-1994||Comedy&&Romance||USA||Richard Benjamin||Melanie Griffith&&Ed Harris&&Michael Patrick Carter
+Beyond Bedlam (1993)||
+Only You (1994)||
+Perez Family, The (1995)||
+Roommates (1995)||01-Jan-1995||Comedy&&Drama||USA||Peter Yates||Peter Falk&&D.B. Sweeney&&Julianne Moore
+Relative Fear (1994)||
+Swimming with Sharks (1995)||
+Tommy Boy (1995)||01-Jan-1995||Comedy||USA||Peter Segal||Chris Farley&&David Spade&&Brian Dennehy
+Baby-Sitters Club, The (1995)||
+Bullets Over Broadway (1994)||01-Jan-1994||Comedy||USA||Woody Allen||John Cusack&&Dianne Wiest&&Jennifer Tilly
+Crooklyn (1994)||01-Jan-1994||Comedy||USA||Spike Lee||Alfre Woodard&&Delroy Lindo&&David Patrick Kelly
+It Could Happen to You (1994)||
+Richie Rich (1994)||
+Speechless (1994)||01-Jan-1994||Comedy&&Romance||USA||Ron Underwood||Michael Keaton&&Geena Davis&&Christopher Reeve
+Timecop (1994)||01-Jan-1994||Action&&Sci-Fi||Canada||Peter Hyams||Jean-Claude Van Damme&&Mia Sara&&Ron Silver
+Bad Company (1995)||
+Boys Life (1995)||
+In the Mouth of Madness (1995)||
+Air Up There, The (1994)||
+Hard Target (1993)||
+Heaven & Earth (1993)||
+Jimmy Hollywood (1994)||
+Manhattan Murder Mystery (1993)||
+Menace II Society (1993)||01-Jan-1993||Action&&Crime&&Drama||USA||None||Tyrin Turner&&Larenz Tate&&June Kyoto Lu
+Poetic Justice (1993)||01-Jan-1993||Drama||USA||John Singleton||Janet Jackson&&Tupac Shakur&&Regina King
+Program, The (1993)||
+Rising Sun (1993)||01-Jan-1993||Action&&Drama&&Mystery||USA||Philip Kaufman||Sean Connery&&Wesley Snipes&&Harvey Keitel
+Shadow, The (1994)||
+Thirty-Two Short Films About Glenn Gould (1993)||
+Andre (1994)||01-Jan-1994||Adventure&&Children's||USA||George Miller||Tina Majorino&&Keith Carradine&&Chelsea Field
+Celluloid Closet, The (1995)||
+Great Day in Harlem, A (1994)||
+One Fine Day (1996)||
+Candyman: Farewell to the Flesh (1995)||01-Jan-1995||Horror||USA||Bill Condon||Tony Todd&&Kelly Rowan&&William O'Leary
+Frisk (1995)||29-Mar-1996||Drama||USA||Todd Verow||Michael Gunther&&Craig Chester&&Michael Stock
+Girl 6 (1996)||
+Eddie (1996)||31-May-1996||Comedy||USA||Steve Rash||Whoopi Goldberg&&Frank Langella&&Dennis Farina
+Space Jam (1996)||15-Nov-1996||Adventure&&Animation&&Children's&&Comedy&&Fantasy||USA||Joe Pytka||Michael Jordan&&Wayne Knight&&Theresa Randle
+Mrs. Winterbourne (1996)||
+Faces (1968)||01-Jan-1968||Drama||USA||John Cassavetes||John Marley&&Gena Rowlands&&Lynn Carlin
+Mulholland Falls (1996)||26-Apr-1996||Crime&&Film-Noir&&Thriller||USA||Lee Tamahori||Nick Nolte&&Melanie Griffith&&Jennifer Connelly
+Great White Hype, The (1996)||
+Arrival, The (1996)||
+Phantom, The (1996)||
+Daylight (1996)||06-Dec-1996||Action&&Adventure&&Thriller||USA||Rob Cohen||Sylvester Stallone&&Amy Brenneman&&Viggo Mortensen
+Alaska (1996)||21-Aug-1996||Adventure&&Children's||USA||Fraser C. Heston||Thora Birch&&Vincent Kartheiser&&Dirk Benedict
+Fled (1996)||19-Jul-1996||Action&&Adventure||USA||Kevin Hooks||Laurence Fishburne&&Stephen Baldwin&&Will Patton
+Power 98 (1995)||
+Escape from L.A. (1996)||09-Aug-1996||Action&&Adventure&&Sci-Fi&&Thriller||USA||John Carpenter||Kurt Russell&&Steve Buscemi&&Stacy Keach
+Bogus (1996)||06-Sep-1996||Children's&&Drama&&Fantasy||USA||Norman Jewison||Whoopi Goldberg&&Gérard Depardieu&&Haley Joel Osment
+Bulletproof (1996)||06-Sep-1996||Action||USA||Ernest R. Dickerson||Damon Wayans&&Adam Sandler&&James Caan
+Halloween: The Curse of Michael Myers (1995)||
+Gay Divorcee, The (1934)||
+Ninotchka (1939)||01-Jan-1939||Comedy&&Romance||USA||Ernst Lubitsch||Greta Garbo&&Melvyn Douglas&&Ina Claire
+Meet John Doe (1941)||
+In the Line of Duty 2 (1987)||
+Loch Ness (1995)||
+Last Man Standing (1996)||
+Glimmer Man, The (1996)||
+Pollyanna (1960)||01-Jan-1960||Children's&&Comedy&&Drama||USA||David Swift||Jane Wyman&&Hayley Mills&&Richard Egan
+Shaggy Dog, The (1959)||
+Freeway (1996)||23-Aug-1996||Crime||USA||Matthew Bright||Reese Witherspoon&&Kiefer Sutherland&&Bokeem Woodbine
+That Thing You Do! (1996)||28-Sep-1996||Comedy||USA||Tom Hanks||Tom Hanks&&Liv Tyler&&Charlize Theron
+To Gillian on Her 37th Birthday (1996)||
+Looking for Richard (1996)||
+Murder, My Sweet (1944)||01-Jan-1944||Film-Noir&&Thriller||USA||Edward Dmytryk||Dick Powell&&Claire Trevor&&Anne Shirley
+Days of Thunder (1990)||01-Jan-1990||Action&&Romance||USA||Tony Scott||Tom Cruise&&Nicole Kidman&&Robert Duvall
+Perfect Candidate, A (1996)||
+Two or Three Things I Know About Her (1966)||
+Bloody Child, The (1996)||
+Braindead (1992)||01-Jan-1992||Comedy&&Horror||New Zealand||Peter Jackson||Timothy Balme&&Diana Peñalver&&Elizabeth Moody
+Bad Taste (1987)||
+Diva (1981)||01-Jan-1981||Action&&Drama&&Mystery&&Romance&&Thriller||France||Jean-Jacques Beineix||Wilhelmenia Fernandez&&Frédéric Andréi&&Richard Bohringer
+Night on Earth (1991)||
+Paris Was a Woman (1995)||
+Amityville: Dollhouse (1996)||01-Jan-1996||Horror||USA||Steve White||Robin Thomas&&Starr Andreeff&&Allen Cutler
+April Fool's Day (1986)||01-Jan-1986||Comedy&&Horror||USA||Fred Walton||Deborah Foreman&&Griffin O'Neal&&Clayton Rohner
+Believers, The (1987)||
+Nosferatu a Venezia (1986)||
+Jingle All the Way (1996)||22-Nov-1996||Adventure&&Children's&&Comedy||USA||Brian Levant||Arnold Schwarzenegger&&Sinbad&&Phil Hartman
+Garden of Finzi-Contini, The (Giardino dei Finzi-Contini, Il) (1970)||
+My Fellow Americans (1996)||
+Ice Storm, The (1997)||
+Michael (1996)||25-Dec-1996||Comedy&&Romance||USA||Nora Ephron||John Travolta&&Andie MacDowell&&William Hurt
+Whole Wide World, The (1996)||
+Hearts and Minds (1996)||
+Fools Rush In (1997)||14-Feb-1997||Comedy&&Romance||USA||Andy Tennant||Matthew Perry&&Salma Hayek&&Jon Tenney
+Touch (1997)||14-Feb-1997||Romance||USA||Paul Schrader||Bridget Fonda&&Christopher Walken&&Skeet Ulrich
+Vegas Vacation (1997)||14-Feb-1997||Comedy||USA||Stephen Kessler||Chevy Chase&&Beverly D'Angelo&&Randy Quaid
+Love Jones (1997)||
+Picture Perfect (1997)||01-Aug-1997||Comedy&&Romance||USA||Glenn Gordon Caron||Jennifer Aniston&&Jay Mohr&&Kevin Bacon
+Career Girls (1997)||
+She's So Lovely (1997)||
+Money Talks (1997)||22-Aug-1997||Action&&Comedy||USA||Brett Ratner||Charlie Sheen&&Chris Tucker&&Heather Locklear
+Excess Baggage (1997)||01-Jan-1997||Adventure&&Romance||USA||Marco Brambilla||Alicia Silverstone&&Benicio Del Toro&&Christopher Walken
+That Darn Cat! (1997)||
+Peacemaker, The (1997)||
+Soul Food (1997)||
+Money Talks (1997)||22-Aug-1997||Action&&Comedy||USA||Brett Ratner||Charlie Sheen&&Chris Tucker&&Heather Locklear
+Washington Square (1997)||01-Jan-1997||Drama||USA||Agnieszka Holland||Jennifer Jason Leigh&&Albert Finney&&Maggie Smith
+Telling Lies in America (1997)||01-Jan-1997||Drama||USA||Guy Ferland||Kevin Bacon&&Brad Renfro&&Maximilian Schell
+Year of the Horse (1997)||
+Phantoms (1998)||01-Jan-1998||Horror||USA||Joe Chappelle||Peter O'Toole&&Rose McGowan&&Joanna Going
+Life Less Ordinary, A (1997)||
+Eve's Bayou (1997)||
+One Night Stand (1997)||
+Tango Lesson, The (1997)||
+Mortal Kombat: Annihilation (1997)||01-Jan-1997||Action&&Adventure||USA||John R. Leonetti||Robin Shou&&Talisa Soto&&James Remar
+Bent (1997)||18-Dec-1997||Drama&&War||UK||Sean Mathias||Lothaire Bluteau&&Clive Owen&&Mick Jagger
+Flubber (1997)||01-Jan-1997||Children's&&Comedy&&Fantasy||USA||Les Mayfield||Robin Williams&&Marcia Gay Harden&&Christopher McDonald
+For Richer or Poorer (1997)||
+Home Alone 3 (1997)||
+Scream 2 (1997)||01-Jan-1997||Horror&&Thriller||USA||Wes Craven||Neve Campbell&&Courteney Cox&&David Arquette
+Sweet Hereafter, The (1997)||
+Time Tracers (1995)||
+Postman, The (1997)||
+Winter Guest, The (1997)||
+Kundun (1997)||
+Mr. Magoo (1997)||
+Big Lebowski, The (1998)||
+Afterglow (1997)||26-Dec-1997||Drama&&Romance||USA||Alan Rudolph||Nick Nolte&&Julie Christie&&Lara Flynn Boyle
+Ma vie en rose (My Life in Pink) (1997)||
+Great Expectations (1998)||01-Jan-1998||Drama&&Romance||USA||Alfonso Cuarón||Ethan Hawke&&Gwyneth Paltrow&&Hank Azaria
+Oscar & Lucinda (1997)||
+Vermin (1998)||01-Jan-1997||Comedy||USA||Chris Innis||Shaz Bennett&&Peter Dryden&&Merle Nicks
+Half Baked (1998)||16-Jan-1998||Comedy||USA||Tamra Davis||Dave Chappelle&&Guillermo Díaz&&Jim Breuer
+Dangerous Beauty (1998)||
+Nil By Mouth (1997)||
+Twilight (1998)||30-Jan-1998||Crime&&Drama||USA||Robert Benton||Paul Newman&&Susan Sarandon&&Gene Hackman
+U.S. Marshalls (1998)||
+Love and Death on Long Island (1997)||
+Wild Things (1998)||
+Primary Colors (1998)||20-Mar-1998||Drama||France||Mike Nichols||John Travolta&&Emma Thompson&&Kathy Bates
+Lost in Space (1998)||27-Mar-1998||Action&&Sci-Fi&&Thriller||USA||Stephen Hopkins||Gary Oldman&&William Hurt&&Matt LeBlanc
+Mercury Rising (1998)||
+City of Angels (1998)||
+City of Lost Children, The (1995)||
+Two Bits (1995)||
+Farewell My Concubine (1993)||
+Dead Man (1995)||
+Raise the Red Lantern (1991)||
+White Squall (1996)||
+Unforgettable (1996)||23-Feb-1996||Sci-Fi&&Thriller||USA||John Dahl||Ray Liotta&&Linda Fiorentino&&Peter Coyote
+Down Periscope (1996)||
+Flower of My Secret, The (Flor de mi secreto, La) (1995)||
+Craft, The (1996)||
+Harriet the Spy (1996)||03-Jul-1996||Children's&&Comedy||USA||Bronwen Hughes||Michelle Trachtenberg&&Rosie O'Donnell&&Gregory Smith
+Chain Reaction (1996)||31-Jul-1996||Action&&Adventure&&Thriller||USA||Andrew Davis||Keanu Reeves&&Morgan Freeman&&Rachel Weisz
+Island of Dr. Moreau, The (1996)||
+First Kid (1996)||
+Funeral, The (1996)||
+Preacher's Wife, The (1996)||
+Paradise Road (1997)||
+Brassed Off (1996)||13-Jun-1997||Comedy&&Drama&&Romance||UK||Mark Herman||Pete Postlethwaite&&Tara Fitzgerald&&Ewan McGregor
+Thousand Acres, A (1997)||
+Smile Like Yours, A (1997)||
+Murder in the First (1995)||
+Airheads (1994)||01-Jan-1994||Comedy||USA||Michael Lehmann||Brendan Fraser&&Steve Buscemi&&Adam Sandler
+With Honors (1994)||
+What's Love Got to Do with It (1993)||
+Killing Zoe (1994)||
+Renaissance Man (1994)||01-Jan-1994||Comedy&&Drama&&War||USA||Penny Marshall||Danny DeVito&&Gregory Hines&&James Remar
+Charade (1963)||01-Jan-1963||Comedy&&Mystery&&Romance&&Thriller||USA||Stanley Donen||Cary Grant&&Audrey Hepburn&&Walter Matthau
+Fox and the Hound, The (1981)||
+Big Blue, The (Grand bleu, Le) (1988)||
+Booty Call (1997)||28-Feb-1997||Comedy&&Romance||USA||Jeff Pollack||Jamie Foxx&&Tommy Davidson&&Vivica A. Fox
+How to Make an American Quilt (1995)||
+Georgia (1995)||01-Jan-1995||Drama||USA||Ulu Grosbard||Jennifer Jason Leigh&&Mare Winningham&&Ted Levine
+Indian in the Cupboard, The (1995)||
+Blue in the Face (1995)||
+Unstrung Heroes (1995)||01-Jan-1995||Comedy&&Drama||USA||Diane Keaton||Andie MacDowell&&John Turturro&&Michael Richards
+Unzipped (1995)||01-Jan-1995||Documentary||USA||Douglas Keeve||Isaac Mizrahi&&Roseanne Barr&&Sandra Bernhard
+Before Sunrise (1995)||01-Jan-1995||Drama&&Romance||USA||Richard Linklater||Ethan Hawke&&Julie Delpy&&Andrea Eckert
+Nobody's Fool (1994)||
+Pushing Hands (1992)||
+To Live (Huozhe) (1994)||
+Dazed and Confused (1993)||01-Jan-1993||Comedy||USA||Richard Linklater||Jason London&&Wiley Wiggins&&Matthew McConaughey
+Naked (1993)||01-Jan-1993||Drama||UK||Mike Leigh||David Thewlis&&Lesley Sharp&&Katrin Cartlidge
+Orlando (1993)||01-Jan-1993||Drama||France||None||Felicity Palmer&&Rosemary Joshua&&Rosa Mannion
+Ruby in Paradise (1993)||01-Jan-1993||Drama||USA||Victor Nunez||Ashley Judd&&Todd Field&&Bentley Mitchum
+Some Folks Call It a Sling Blade (1993)||
+Month by the Lake, A (1995)||
+Funny Face (1957)||
+Affair to Remember, An (1957)||
+Little Lord Fauntleroy (1936)||
+Inspector General, The (1949)||
+Winnie the Pooh and the Blustery Day (1968)||
+Hear My Song (1991)||
+Mediterraneo (1991)||01-Jan-1991||Comedy&&War||Italy||Gabriele Salvatores||Diego Abatantuono&&Claudio Bigagli&&Giuseppe Cederna
+Passion Fish (1992)||
+Grateful Dead (1995)||
+Eye for an Eye (1996)||
+Fear (1996)||12-Apr-1996||Thriller||USA||James Foley||Mark Wahlberg&&Reese Witherspoon&&William Petersen
+Solo (1996)||23-Aug-1996||Action&&Sci-Fi&&Thriller||Mexico||Norberto Barba||Mario Van Peebles&&William Sadler&&Barry Corbin
+Substitute, The (1996)||
+Heaven's Prisoners (1996)||
+Trigger Effect, The (1996)||
+Mother Night (1996)||
+Dangerous Ground (1997)||
+Maximum Risk (1996)||13-Sep-1996||Action&&Adventure&&Thriller||USA||Ringo Lam||Jean-Claude Van Damme&&Natasha Henstridge&&Jean-Hugues Anglade
+Rich Man's Wife, The (1996)||
+Shadow Conspiracy (1997)||
+Blood & Wine (1997)||
+Turbulence (1997)||10-Jan-1997||Thriller||USA||Robert Butler||Ray Liotta&&Lauren Holly&&Brendan Gleeson
+Underworld (1997)||
+Beautician and the Beast, The (1997)||
+Cats Don't Dance (1997)||26-Mar-1997||Animation&&Children's&&Musical||USA||Mark Dindal||Scott Bakula&&Jasmine Guy&&Natalie Cole
+Anna Karenina (1997)||
+Keys to Tulsa (1997)||11-Apr-1997||Crime||USA||Leslie Greif||Eric Stoltz&&James Spader&&Deborah Kara Unger
+Head Above Water (1996)||
+Hercules (1997)||27-Jun-1997||Adventure&&Animation&&Children's&&Comedy&&Musical||USA||None||Tate Donovan&&Susan Egan&&James Woods
+Last Time I Committed Suicide, The (1997)||
+Kiss Me, Guido (1997)||
+Big Green, The (1995)||
+Stuart Saves His Family (1995)||
+Cabin Boy (1994)||01-Jan-1994||Comedy||USA||Adam Resnick||Chris Elliott&&Ritch Brinkley&&James Gammon
+Clean Slate (1994)||
+Lightning Jack (1994)||01-Jan-1994||Comedy&&Western||USA||Simon Wincer||Paul Hogan&&Cuba Gooding Jr.&&Beverly D'Angelo
+Stupids, The (1996)||
+Pest, The (1997)||
+That Darn Cat! (1997)||
+Geronimo: An American Legend (1993)||01-Jan-1993||Drama&&Western||USA||Walter Hill||Jason Patric&&Gene Hackman&&Robert Duvall
+Double vie de V�ronique, La (Double Life of Veronique, The) (1991)||Until the End of the World (Bis ans Ende der Welt) (1991)||
+Waiting for Guffman (1996)||31-Jan-1997||Comedy||USA||Christopher Guest||Christopher Guest&&Fred Willard&&Catherine O'Hara
+I Shot Andy Warhol (1996)||
+Stealing Beauty (1996)||14-Jun-1996||Drama||Italy||Bernardo Bertolucci||Jeremy Irons&&Liv Tyler&&Carlo Cecchi
+Basquiat (1996)||16-Aug-1996||Drama||USA||Julian Schnabel||Jeffrey Wright&&Michael Wincott&&Benicio Del Toro
+2 Days in the Valley (1996)||
+Private Parts (1997)||07-Mar-1997||Comedy&&Drama||USA||Betty Thomas||Howard Stern&&Mary McCormack&&Robin Quivers
+Anaconda (1997)||11-Apr-1997||Action&&Adventure&&Thriller||USA||Luis Llosa||Jon Voight&&Jennifer Lopez&&Eric Stoltz
+Romy and Michele's High School Reunion (1997)||25-Apr-1997||Comedy||USA||David Mirkin||Mira Sorvino&&Lisa Kudrow&&Janeane Garofalo
+Shiloh (1997)||
+Con Air (1997)||
+Trees Lounge (1996)||11-Oct-1996||Drama||USA||Steve Buscemi||Steve Buscemi&&Carol Kane&&Mark Boone Junior
+Tie Me Up! Tie Me Down! (1990)||
+Die xue shuang xiong (Killer, The) (1989)||
+Gaslight (1944)||01-Jan-1944||Mystery&&Thriller||USA||George Cukor||Charles Boyer&&Ingrid Bergman&&Joseph Cotten
+8 1/2 (1963)||
+Fast, Cheap & Out of Control (1997)||01-Jan-1997||Documentary||USA||Errol Morris||Dave Hoover&&George Mendonça&&Rodney Brooks
+Fathers' Day (1997)||
+Mrs. Dalloway (1997)||
+Fire Down Below (1997)||
+Lay of the Land, The (1997)||
+Shooter, The (1995)||
+Grumpier Old Men (1995)||01-Jan-1995||Comedy&&Romance||USA||Howard Deutch||Walter Matthau&&Jack Lemmon&&Ann-Margret
+Jury Duty (1995)||
+Beverly Hillbillies, The (1993)||
+Lassie (1994)||01-Jan-1994||Adventure&&Children's||USA||Daniel Petrie||Helen Slater&&Tom Guiry&&Jon Tenney
+Little Big League (1994)||
+Homeward Bound II: Lost in San Francisco (1996)||08-Mar-1996||Adventure&&Children's||USA||David R. Ellis||Michael J. Fox&&Sally Field&&Ralph Waite
+Quest, The (1996)||
+Cool Runnings (1993)||01-Jan-1993||Comedy||USA||Jon Turteltaub||John Candy&&Leon&&Doug E. Doug
+Drop Dead Fred (1991)||01-Jan-1991||Comedy&&Fantasy||USA||Ate de Jong||Phoebe Cates&&Rik Mayall&&Marsha Mason
+Grease 2 (1982)||01-Jan-1982||Comedy&&Musical&&Romance||USA||Patricia Birch||Michelle Pfeiffer&&Maxwell Caulfield&&Lorna Luft
+Switchback (1997)||01-Jan-1997||Thriller||USA||Jeb Stuart||Danny Glover&&Dennis Quaid&&Claudia Stedelin
+Hamlet (1996)||24-Jan-1997||Drama||UK||Kenneth Branagh||Kenneth Branagh&&Julie Christie&&Derek Jacobi
+Two if by Sea (1996)||
+Forget Paris (1995)||01-Jan-1995||Comedy&&Romance||USA||Billy Crystal||Billy Crystal&&Debra Winger&&Joe Mantegna
+Just Cause (1995)||
+Rent-a-Kid (1995)||01-Jan-1995||Comedy||USA||Fred Gerber||Leslie Nielsen&&Christopher Lloyd&&Matt McCoy
+Paper, The (1994)||
+Fearless (1993)||01-Jan-1993||Drama||USA||Peter Weir||Jeff Bridges&&Isabella Rossellini&&Rosie Perez
+Malice (1993)||01-Jan-1993||Thriller||Canada||Harold Becker||Alec Baldwin&&Nicole Kidman&&Bill Pullman
+Multiplicity (1996)||12-Jul-1996||Comedy||USA||Harold Ramis||Michael Keaton&&Andie MacDowell&&Zack Duhame
+She's the One (1996)||
+House Arrest (1996)||
+Ghost and Mrs. Muir, The (1947)||
+Associate, The (1996)||
+Dracula: Dead and Loving It (1995)||01-Jan-1995||Comedy&&Horror||USA||Mel Brooks||Leslie Nielsen&&Mel Brooks&&Peter MacNicol
+Now and Then (1995)||
+Mr. Wrong (1996)||
+Simple Twist of Fate, A (1994)||
+Cronos (1992)||Pallbearer, The (1996)||
+War, The (1994)||
+Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)||
+Adventures of Pinocchio, The (1996)||
+Evening Star, The (1996)||
+Four Days in September (1997)||
+Little Princess, A (1995)||
+Crossfire (1947)||Koyaanisqatsi (1983)||Balto (1995)||Bottle Rocket (1996)||Star Maker, The (Uomo delle stelle, L') (1995)||Amateur (1994)||Living in Oblivion (1995)||Party Girl (1995)||Pyromaniac's Love Story, A (1995)||Shallow Grave (1994)||Reality Bites (1994)||Man of No Importance, A (1994)||Pagemaster, The (1994)||Love and a .45 (1994)||Oliver & Company (1988)||Joe's Apartment (1996)||Celestial Clockwork (1994)||Curdled (1996)||Female Perversions (1996)||Albino Alligator (1996)||Anne Frank Remembered (1995)||Carried Away (1996)||It's My Party (1995)||Bloodsport 2 (1995)||Double Team (1997)||Speed 2: Cruise Control (1997)||Sliver (1993)||Pete's Dragon (1977)||Dear God (1996)||Live Nude Girls (1995)||Thin Line Between Love and Hate, A (1996)||High School High (1996)||Commandments (1997)||Hate (Haine, La) (1995)||Flirting With Disaster (1996)||Red Firecracker, Green Firecracker (1994)||What Happened Was... (1994)||Six Degrees of Separation (1993)||Two Much (1996)||Trust (1990)||C'est arriv� pr�s de chez vous (1992)||Firestorm (1998)||Newton Boys, The (1998)||Beyond Rangoon (1995)||Feast of July (1995)||Death and the Maiden (1994)||Tank Girl (1995)||Double Happiness (1994)||Cobb (1994)||Mrs. Parker and the Vicious Circle (1994)||Faithful (1996)||Twelfth Night (1996)||Mark of Zorro, The (1940)||Surviving Picasso (1996)||Up in Smoke (1978)||Some Kind of Wonderful (1987)||I'm Not Rappaport (1996)||Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)||They Made Me a Criminal (1939)||Last Time I Saw Paris, The (1954)||Farewell to Arms, A (1932)||Innocents, The (1961)||Old Man and the Sea, The (1958)||Truman Show, The (1998)||Heidi Fleiss: Hollywood Madam (1995) ||Chungking Express (1994)||Jupiter's Wife (1994)||Safe (1995)||Feeling Minnesota (1996)||Escape to Witch Mountain (1975)||Get on the Bus (1996)||Doors, The (1991)||Ghosts of Mississippi (1996)||Beautiful Thing (1996)||Best Men (1997)||Hackers (1995)||Road to Wellville, The (1994)||War Room, The (1993)||When We Were Kings (1996)||Hard Eight (1996)||Quiet Room, The (1996)||Blue Chips (1994)||Calendar Girl (1993)||My Family (1995)||Tom & Viv (1994)||Walkabout (1971)||Last Dance (1996)||Original Gangstas (1996)||In Love and War (1996)||Backbeat (1993)||Alphaville (1965)||Rendezvous in Paris (Rendez-vous de Paris, Les) (1995)||Cyclo (1995)||Relic, The (1997)||Fille seule, La (A Single Girl) (1995)||Stalker (1979)||Love! Valour! Compassion! (1997)||Palookaville (1996)||Phat Beach (1996)||Portrait of a Lady, The (1996)||Zeus and Roxanne (1997)||Big Bully (1996)||Love & Human Remains (1993)||Sum of Us, The (1994)||Little Buddha (1993)||Fresh (1994)||Spanking the Monkey (1994)||Wild Reeds (1994)||Women, The (1939)||Bliss (1997)||Caught (1996)||Hugo Pool (1997)||Welcome To Sarajevo (1997)||Dunston Checks In (1996)||Major Payne (1994)||Man of the House (1995)||I Love Trouble (1994)||Low Down Dirty Shame, A (1994)||Cops and Robbersons (1994)||Cowboy Way, The (1994)||Endless Summer 2, The (1994)||In the Army Now (1994)||Inkwell, The (1994)||
+Switchblade Sisters (1975)||
+Young Guns II (1990)||
+Prefontaine (1997)||24-Jan-1997||Drama||USA||Steve James||Jared Leto&&R. Lee Ermey&&Ed O'Neill
+That Old Feeling (1997)||
+Letter From Death Row, A (1998)||
+Boys of St. Vincent, The (1993)||
+Before the Rain (Pred dozhdot) (1994)||
+Once Were Warriors (1994)||
+Strawberry and Chocolate (Fresa y chocolate) (1993)||
+Savage Nights (Nuits fauves, Les) (1992)||
+Family Thing, A (1996)||
+Purple Noon (1960)||
+Cemetery Man (Dellamorte Dellamore) (1994)||
+Kim (1950)||01-Jan-1950||Children's&&Drama||USA||Victor Saville||Errol Flynn&&Dean Stockwell&&Paul Lukas
+Marlene Dietrich: Shadow and Light (1996) ||
+Maybe, Maybe Not (Bewegte Mann, Der) (1994)||
+Top Hat (1935)||
+To Be or Not to Be (1942)||
+Secret Agent, The (1996)||
+Amos & Andrew (1993)||01-Jan-1993||Comedy||USA||E. Max Frye||Nicolas Cage&&Samuel L. Jackson&&Michael Lerner
+Jade (1995)||01-Jan-1995||Thriller||USA||William Friedkin||David Caruso&&Linda Fiorentino&&Chazz Palminteri
+Kiss of Death (1995)||
+Mixed Nuts (1994)||01-Jan-1994||Comedy||USA||Nora Ephron||Steve Martin&&Madeline Kahn&&Robert Klein
+Virtuosity (1995)||01-Jan-1995||Sci-Fi&&Thriller||USA||Brett Leonard||Denzel Washington&&Russell Crowe&&Kelly Lynch
+Blue Sky (1994)||
+Flesh and Bone (1993)||
+Guilty as Sin (1993)||
+In the Realm of the Senses (Ai no corrida) (1976)||
+Barb Wire (1996)||
+Kissed (1996)||18-Apr-1997||Romance||Canada||Lynne Stopkewich||Molly Parker&&Peter Outerbridge&&Jay Brazeau
+Assassins (1995)||01-Jan-1995||Thriller||France||Richard Donner||Sylvester Stallone&&Antonio Banderas&&Julianne Moore
+Friday (1995)||01-Jan-1995||Comedy||USA||F. Gary Gray||Ice Cube&&Chris Tucker&&Nia Long
+Goofy Movie, A (1995)||
+Higher Learning (1995)||01-Jan-1995||Drama||USA||John Singleton||Omar Epps&&Kristy Swanson&&Michael Rapaport
+When a Man Loves a Woman (1994)||
+Judgment Night (1993)||01-Jan-1993||Action||USA||Stephen Hopkins||Emilio Estevez&&Cuba Gooding Jr.&&Denis Leary
+King of the Hill (1993)||
+Scout, The (1994)||
+Angus (1995)||01-Jan-1995||Comedy||UK||Patrick Read Johnson||Charlie Talbert&&George C. Scott&&Kathy Bates
+Night Falls on Manhattan (1997)||
+Awfully Big Adventure, An (1995)||
+Under Siege 2: Dark Territory (1995)||
+Poison Ivy II (1995)||
+Ready to Wear (Pret-A-Porter) (1994)||
+Marked for Death (1990)||01-Jan-1990||Action&&Drama||USA||Dwight H. Little||Steven Seagal&&Joanna Pacula&&Basil Wallace
+Madonna: Truth or Dare (1991)||01-Jan-1991||Documentary||USA||Alek Keshishian||Madonna&&Donna DeLory&&Niki Harris
+N�nette et Boni (1996)||Chairman of the Board (1998)||01-Jan-1998||Comedy||USA||Alex Zamm||Scott 'Carrot Top' Thompson&&Courtney Thorne-Smith&&Larry Miller
+Big Bang Theory, The (1994)||
+Other Voices, Other Rooms (1997)||
+Twisted (1996)||
+Full Speed (1996)||
+Cutthroat Island (1995)||01-Jan-1995||Action&&Adventure&&Romance||USA||Renny Harlin||Geena Davis&&Matthew Modine&&Frank Langella
+Ghost in the Shell (Kokaku kidotai) (1995)||
+Van, The (1996)||
+Old Lady Who Walked in the Sea, The (Vieille qui marchait dans la mer, La) (1991)||
+Night Flier (1997)||
+Metro (1997)||17-Jan-1997||Action||USA||Thomas Carter||Eddie Murphy&&Michael Rapaport&&Kim Miyori
+Gridlock'd (1997)||
+Bushwhacked (1995)||01-Jan-1995||Comedy||USA||Greg Beeman||Daniel Stern&&Jon Polito&&Brad Sullivan
+Bad Girls (1994)||
+Blink (1994)||
+For Love or Money (1993)||
+Best of the Best 3: No Turning Back (1995)||
+A Chef in Love (1996)||
+Contempt (M�pris, Le) (1963)||Tie That Binds, The (1995)||
+Gone Fishin' (1997)||
+Broken English (1996)||
+Designated Mourner, The (1997)||
+Designated Mourner, The (1997)||
+Trial and Error (1997)||30-May-1997||Comedy&&Romance||USA||Jonathan Lynn||Michael Richards&&Jeff Daniels&&Charlize Theron
+Pie in the Sky (1995)||
+Total Eclipse (1995)||
+Run of the Country, The (1995)||
+Walking and Talking (1996)||
+Foxfire (1996)||23-Aug-1996||Drama||USA||Annette Haywood-Carter||Hedy Burress&&Angelina Jolie&&Jenny Lewis
+Nothing to Lose (1994)||
+Star Maps (1997)||
+Bread and Chocolate (Pane e cioccolata) (1973)||
+Clockers (1995)||01-Jan-1995||Drama||USA||Spike Lee||Harvey Keitel&&John Turturro&&Delroy Lindo
+Bitter Moon (1992)||01-Jan-1992||Drama||France||Roman Polanski||Hugh Grant&&Kristin Scott Thomas&&Emmanuelle Seigner
+Love in the Afternoon (1957)||
+Life with Mikey (1993)||
+North (1994)||01-Jan-1994||Comedy||USA||Rob Reiner||Elijah Wood&&Bruce Willis&&Jason Alexander
+Talking About Sex (1994)||
+Color of Night (1994)||
+Robocop 3 (1993)||01-Jan-1993||Sci-Fi&&Thriller||USA||Fred Dekker||Nancy Allen&&Robert John Burke&&Mario Machado
+Killer (Bulletproof Heart) (1994)||
+Sunset Park (1996)||
+Set It Off (1996)||
+Selena (1997)||21-Mar-1997||Drama&&Musical||USA||Gregory Nava||Jennifer Lopez&&Edward James Olmos&&Jon Seda
+Wild America (1997)||
+Gang Related (1997)||
+Manny & Lo (1996)||26-Jul-1996||Drama||USA||Lisa Krueger||Scarlett Johansson&&Aleksa Palladino&&Mary Kay Place
+Grass Harp, The (1995)||
+Out to Sea (1997)||
+Before and After (1996)||
+Princess Caraboo (1994)||
+Shall We Dance? (1937)||
+Ed (1996)||08-Mar-1996||Comedy||USA||Bill Couturié||Matt LeBlanc&&Jayne Brook&&Gene Ross
+Denise Calls Up (1995)||29-Mar-1996||Comedy||USA||Hal Salwen||Tim Daly&&Caroleen Feeney&&Dan Gunther
+Jack and Sarah (1995)||
+Country Life (1994)||
+Celtic Pride (1996)||19-Apr-1996||Comedy||USA||Tom DeCerchio||Damon Wayans&&Daniel Stern&&Dan Aykroyd
+Simple Wish, A (1997)||
+Star Kid (1997)||
+Ayn Rand: A Sense of Life (1997)||
+Kicked in the Head (1997)||01-Jan-1997||Comedy&&Drama||USA||Matthew Harrison||Kevin Corrigan&&Linda Fiorentino&&Michael Rapaport
+Indian Summer (1996)||
+Love Affair (1994)||
+Band Wagon, The (1953)||
+Penny Serenade (1941)||01-Jan-1941||Drama&&Romance||USA||George Stevens||Cary Grant&&Irene Dunne&&Beulah Bondi
+'Til There Was You (1997)||
+Stripes (1981)||01-Jan-1981||Comedy||USA||Ivan Reitman||Bill Murray&&John Candy&&Harold Ramis
+Late Bloomers (1996)||
+Getaway, The (1994)||
+New York Cop (1996)||
+National Lampoon's Senior Trip (1995)||
+Delta of Venus (1994)||
+Carmen Miranda: Bananas Is My Business (1994)||
+Babyfever (1994)||01-Jan-1994||Comedy&&Drama||USA||None||Victoria Foyt&&Matt Salinger&&Frances Fisher
+Very Natural Thing, A (1974)||
+Walk in the Sun, A (1945)||
+Waiting to Exhale (1995)||15-Jan-1996||Comedy&&Drama||USA||Forest Whitaker||Whitney Houston&&Angela Bassett&&Loretta Devine
+Pompatus of Love, The (1996)||
+Palmetto (1998)||20-Feb-1998||Film-Noir&&Mystery&&Thriller||Germany||Volker Schlöndorff||Woody Harrelson&&Elisabeth Shue&&Gina Gershon
+Surviving the Game (1994)||01-Jan-1994||Action&&Adventure&&Thriller||USA||Ernest R. Dickerson||Rutger Hauer&&Ice-T&&Charles S. Dutton
+Inventing the Abbotts (1997)||04-Apr-1997||Drama&&Romance||USA||Pat O'Connor||Liv Tyler&&Jennifer Connelly&&Joaquin Phoenix
+Horse Whisperer, The (1998)||
+Journey of August King, The (1995)||
+Catwalk (1995)||07-Jun-1996||Documentary||USA||Robert Leacock||Christy Turlington&&Azzedine Alaïa&&Giorgio Armani
+Neon Bible, The (1995)||
+Homage (1995)||03-May-1996||Drama||USA||Ross Kagan Marks||Blythe Danner&&Frank Whaley&&Sheryl Lee
+Open Season (1996)||
+Metisse (Caf� au Lait) (1993)||Wooden Man's Bride, The (Wu Kui) (1994)||
+Loaded (1994)||12-Apr-1996||Drama&&Thriller||New Zealand||Anna Campion||Oliver Milburn&&Dearbhla Molloy&&Danny Cunningham
+August (1996)||12-Apr-1996||Drama||UK||Anthony Hopkins||Anthony Hopkins&&Leslie Phillips&&Kate Burton
+Boys (1996)||10-May-1996||Drama||USA||Stacy Cochran||Winona Ryder&&Lukas Haas&&John C. Reilly
+Captives (1994)||16-Sep-1994||Drama||UK||Angela Pope||Julia Ormond&&Tim Roth&&Keith Allen
+Of Love and Shadows (1994)||
+Low Life, The (1994)||
+An Unforgettable Summer (1994)||
+Last Klezmer: Leopold Kozlowski, His Life and Music, The (1995)||
+My Life and Times With Antonin Artaud (En compagnie d'Antonin Artaud) (1993)||
+Midnight Dancers (Sibak) (1994)||
+Somebody to Love (1994)||14-Jun-1996||Drama||USA||Alexandre Rockwell||Rosie Perez&&Harvey Keitel&&Anthony Quinn
+American Buffalo (1996)||
+Kazaam (1996)||17-Jul-1996||Children's&&Comedy&&Fantasy||USA||Paul Michael Glaser||Shaquille O'Neal&&Francis Capra&&Ally Walker
+Larger Than Life (1996)||01-Nov-1996||Comedy||USA||Howard Franklin||Bill Murray&&Matthew McConaughey&&Jerry Adler
+Two Deaths (1995)||
+Stefano Quantestorie (1993)||
+Crude Oasis, The (1995)||
+Hedd Wyn (1992)||01-Jan-1992||Drama||UK||Paul Turner||Huw Garmon&&Catrin Fychan&&Ceri Cunnington
+Convent, The (Convento, O) (1995)||
+Lotto Land (1995)||01-Jan-1995||Drama||USA||John Rubino||Lawrence Gilliard Jr.&&Wendell Holmes&&Barbara Gonzalez
+Story of Xinghua, The (1993)||
+Day the Sun Turned Cold, The (Tianguo niezi) (1994)||
+Dingo (1992)||
+Ballad of Narayama, The (Narayama Bushiko) (1958)||
+Every Other Weekend (1990)||
+Mille bolle blu (1993)||
+Crows and Sparrows (1949)||
+Lover's Knot (1996)||
+Shadow of Angels (Schatten der Engel) (1976)||
+1-900 (1994)||
+Venice/Venice (1992)||01-Jan-1992||Drama||USA||Henry Jaglom||Nelly Alard&&Henry Jaglom&&Melissa Leo
+Infinity (1996)||04-Oct-1996||Drama||USA||Matthew Broderick||Matthew Broderick&&Patricia Arquette&&Jeffrey Force
+Ed's Next Move (1996)||
+For the Moment (1994)||
+The Deadly Cure (1996)||
+Boys in Venice (1996)||
+Sexual Life of the Belgians, The (1994)||
+Search for One-eye Jimmy, The (1996)||
+American Strays (1996)||
+Leopard Son, The (1996)||
+Bird of Prey (1996)||
+Johnny 100 Pesos (1993)||
+JLG/JLG - autoportrait de d�cembre (1994)||Faust (1994)||
+Mina Tannenbaum (1994)||
+Forbidden Christ, The (Cristo proibito, Il) (1950)||
+I Can't Sleep (J'ai pas sommeil) (1994)||
+Machine, The (1994)||
+Stranger, The (1994)||
+Good Morning (1971)||
+Falling in Love Again (1980)||
+Cement Garden, The (1993)||
+Meet Wally Sparks (1997)||
+Hotel de Love (1996)||
+Rhyme & Reason (1997)||05-Mar-1997||Documentary||USA||Peter Spirer||B-Real&&Kurtis Blow&&Da Brat
+Love and Other Catastrophes (1996)||
+Hollow Reed (1996)||
+Losing Chase (1996)||01-Jan-1996||Drama||USA||Kevin Bacon||Helen Mirren&&Kyra Sedgwick&&Beau Bridges
+Bonheur, Le (1965)||
+Second Jungle Book: Mowgli & Baloo, The (1997)||
+Squeeze (1996)||
+Roseanna's Grave (For Roseanna) (1997)||
+Tetsuo II: Body Hammer (1992)||20-Jun-1997||Sci-Fi||Japan||Shin'ya Tsukamoto||Tomorowo Taguchi&&Shin'ya Tsukamoto&&Nobu Kanaoka
+Fall (1997)||27-Jun-1997||Romance||USA||Eric Schaeffer||Eric Schaeffer&&Amanda De Cadenet&&Rudolf Martin
+Gabbeh (1996)||27-Jun-1997||Drama||Iran||Mohsen Makhmalbaf||Shaghayeh Djodat&&Hossein Moharami&&Rogheih Moharami
+Mondo (1996)||
+Innocent Sleep, The (1995)||
+For Ever Mozart (1996)||
+Locusts, The (1997)||
+Stag (1997)||01-Jan-1997||Action&&Thriller||USA||Gavin Wilding||John Stockwell&&Mario Van Peebles&&Jerry Stiller
+Swept from the Sea (1997)||01-Jan-1997||Romance||UK||Beeban Kidron||Rachel Weisz&&Vincent Perez&&Ian McKellen
+Hurricane Streets (1998)||
+Stonewall (1995)||26-Jul-1996||Drama||UK||Nigel Finch||Guillermo Díaz&&Frederick Weller&&Brendan Corbalis
+Of Human Bondage (1934)||
+Anna (1996)||
+Stranger in the House (1997)||
+Picture Bride (1995)||
+M. Butterfly (1993)||
+Ciao, Professore! (1993)||
+Caro Diario (Dear Diary) (1994)||
+Withnail and I (1987)||
+Boy's Life 2 (1997)||
+When Night Is Falling (1995)||
+Specialist, The (1994)||
+Gordy (1995)||01-Jan-1995||Comedy||USA||Mark Lewis||Kristy Young&&Doug Stone&&James Donadio
+Swan Princess, The (1994)||
+Harlem (1993)||
+Barbarella (1968)||01-Jan-1968||Adventure&&Sci-Fi||France||Roger Vadim||Jane Fonda&&John Phillip Law&&Anita Pallenberg
+Land Before Time III: The Time of the Great Giving (1995) (V)||
+Street Fighter (1994)||01-Jan-1994||Action||Japan||Steven E. de Souza||Jean-Claude Van Damme&&Raul Julia&&Ming-Na Wen
+Coldblooded (1995)||01-Jan-1995||Action||USA||Wallace Wolodarsky||Jason Priestley&&Kimberly Williams-Paisley&&Peter Riegert
+Next Karate Kid, The (1994)||
+No Escape (1994)||
+Turning, The (1992)||
+Joy Luck Club, The (1993)||
+Highlander III: The Sorcerer (1994)||01-Jan-1994||Action&&Sci-Fi||Canada||Andrew Morahan||Christopher Lambert&&Mario Van Peebles&&Deborah Kara Unger
+Gilligan's Island: The Movie (1998)||
+My Crazy Life (Mi vida loca) (1993)||
+Suture (1993)||01-Jan-1993||Film-Noir&&Thriller||USA||None||Dennis Haysbert&&Mel Harris&&Sab Shimono
+Walking Dead, The (1995)||
+I Like It Like That (1994)||
+I'll Do Anything (1994)||
+Grace of My Heart (1996)||
+Drunks (1995)||01-Nov-1996||Drama||USA||Peter Cohn||Richard Lewis&&Liza Harris&&Liam Ahern
+SubUrbia (1997)||
+Sliding Doors (1998)||01-Jan-1998||Drama&&Romance||UK||Peter Howitt||Gwyneth Paltrow&&John Hannah&&John Lynch
+Ill Gotten Gains (1997)||
+Legal Deceit (1997)||
+Mighty, The (1998)||
+Men of Means (1998)||
+Shooting Fish (1997)||16-Jan-1998||Romance||UK||Stefan Schwartz||Dan Futterman&&Stuart Townsend&&Kate Beckinsale
+Steal Big, Steal Little (1995)||
+Mr. Jones (1993)||
+House Party 3 (1994)||
+Panther (1995)||01-Jan-1995||Drama||UK||Mario Van Peebles||Kadeem Hardison&&Bokeem Woodbine&&Joe Don Baker
+Jason's Lyric (1994)||
+Above the Rim (1994)||01-Jan-1994||Drama||USA||Jeff Pollack||Duane Martin&&Tupac Shakur&&Leon
+Moonlight and Valentino (1995)||
+Scarlet Letter, The (1995)||
+8 Seconds (1994)||
+That Darn Cat! (1965)||
+Ladybird Ladybird (1994)||01-Jan-1994||Drama||UK||Ken Loach||Crissy Rock&&Vladimir Vega&&Sandie Lavelle
+Bye Bye, Love (1995)||
+Century (1993)||01-Jan-1993||Drama||UK||Stephen Poliakoff||Charles Dance&&Clive Owen&&Miranda Richardson
+My Favorite Season (1993)||
+Pather Panchali (1955)||22-Mar-1996||Drama||India||Satyajit Ray||Kanu Bannerjee&&Karuna Bannerjee&&Subir Banerjee
+Golden Earrings (1947)||
+Foreign Correspondent (1940)||01-Jan-1940||Thriller||USA||Alfred Hitchcock||Joel McCrea&&Laraine Day&&Herbert Marshall
+Lady of Burlesque (1943)||
+Angel on My Shoulder (1946)||
+Angel and the Badman (1947)||
+Outlaw, The (1943)||
+Beat the Devil (1954)||
+Love Is All There Is (1996)||
+Damsel in Distress, A (1937)||
+Madame Butterfly (1995)||
+Sleepover (1995)||25-Oct-1996||Comedy&&Drama||USA||John F. Sullivan||Michael Albanese&&Evi Allen&&Shannon Barry
+Here Comes Cookie (1935)||
+Thieves (Voleurs, Les) (1996)||
+Boys, Les (1997)||
+Stars Fell on Henrietta, The (1995)||
+Last Summer in the Hamptons (1995)||
+Margaret's Museum (1995)||
+Saint of Fort Washington, The (1993)||
+Cure, The (1995)||
+Tom and Huck (1995)||
+Gumby: The Movie (1995)||
+Hideaway (1995)||01-Jan-1995||Thriller||USA||Brett Leonard||Jeff Goldblum&&Christine Lahti&&Alicia Silverstone
+Visitors, The (Visiteurs, Les) (1993)||
+Little Princess, The (1939)||
+Nina Takes a Lover (1994)||
+Bhaji on the Beach (1993)||01-Jan-1993||Comedy&&Drama||UK||Gurinder Chadha||Kim Vithana&&Jimmi Harkishin&&Sarita Khajuria
+Raw Deal (1948)||
+Nightwatch (1997)||22-Apr-1997||Horror&&Thriller||USA||Ole Bornedal||Ewan McGregor&&Nick Nolte&&Anais Evans
+Dead Presidents (1995)||
+Reckless (1995)||01-Jan-1995||Comedy||USA||Norman René||Mia Farrow&&Tony Goldwyn&&Juana Barrios
+Herbie Rides Again (1974)||01-Jan-1974||Adventure&&Children's&&Comedy||USA||Robert Stevenson||Helen Hayes&&Ken Berry&&Stefanie Powers
+S.F.W. (1994)||01-Jan-1994||Drama||USA||Jefery Levy||Stephen Dorff&&Reese Witherspoon&&Jake Busey
+Gate of Heavenly Peace, The (1995)||
+Man in the Iron Mask, The (1998)||
+Jerky Boys, The (1994)||
+Colonel Chabert, Le (1994)||
+Girl in the Cadillac (1995)||
+Even Cowgirls Get the Blues (1993)||
+Germinal (1993)||01-Jan-1993||Drama||France||Claude Berri||Renaud&&Gérard Depardieu&&Miou-Miou
+Chasers (1994)||01-Jan-1994||Comedy||USA||Dennis Hopper||Tom Berenger&&Erika Eleniak&&William McNamara
+Fausto (1993)||01-Jan-1993||Comedy||France||Rémy Duchemin||Ken Higelin&&Jean Yanne&&Florence Darel
+Tough and Deadly (1995)||
+Window to Paris (1994)||
+Modern Affair, A (1995)||
+Mostro, Il (1994)||
+Flirt (1995)||07-Aug-1996||Drama||USA||Hal Hartley||Paul Austin&&Robert John Burke&&Martin Donovan
+Carpool (1996)||23-Aug-1996||Comedy&&Crime||USA||Arthur Hiller||Tom Arnold&&David Paymer&&Rhea Perlman
+Line King: Al Hirschfeld, The (1996)||
+Farmer & Chase (1995)||
+Grosse Fatigue (1994)||
+Santa with Muscles (1996)||
+Prisoner of the Mountains (Kavkazsky Plennik) (1996)||
+Naked in New York (1994)||
+Gold Diggers: The Secret of Bear Mountain (1995)||
+Bewegte Mann, Der (1994)||
+Killer: A Journal of Murder (1995)||06-Sep-1996||Crime&&Drama||USA||Tim Metcalfe||James Woods&&Robert Sean Leonard&&Ellen Greene
+Nelly & Monsieur Arnaud (1995)||12-Apr-1996||Drama||France||Claude Sautet||Emmanuelle Béart&&Michel Serrault&&Jean-Hugues Anglade
+Three Lives and Only One Death (1996)||
+Babysitter, The (1995)||
+Getting Even with Dad (1994)||01-Jan-1994||Comedy||USA||Howard Deutch||Macaulay Culkin&&Ted Danson&&Glenne Headly
+Mad Dog Time (1996)||
+Children of the Revolution (1996)||
+World of Apu, The (Apur Sansar) (1959)||
+Sprung (1997)||14-May-1997||Comedy||USA||Rusty Cundieff||Tisha Campbell-Martin&&Rusty Cundieff&&Paula Jai Parker
+Dream With the Fishes (1997)||
+Wings of Courage (1995)||
+Wedding Gift, The (1994)||
+Race the Sun (1996)||01-Jan-1996||Drama||USA||Charles T. Kanganis||Halle Berry&&Jim Belushi&&Bill Hunter
+Losing Isaiah (1995)||01-Jan-1995||Drama||USA||Stephen Gyllenhaal||Jessica Lange&&Halle Berry&&David Strathairn
+New Jersey Drive (1995)||
+Fear, The (1995)||
+Mr. Wonderful (1993)||
+Trial by Jury (1994)||
+Good Man in Africa, A (1994)||
+Kaspar Hauser (1993)||07-Jun-1996||Drama||Germany||Peter Sehr||André Eisermann&&Udo Samel&&Jeremy Clyde
+Object of My Affection, The (1998)||
+Witness (1985)||01-Jan-1985||Drama&&Romance&&Thriller||USA||Peter Weir||Harrison Ford&&Kelly McGillis&&Lukas Haas
+Senseless (1998)||09-Jan-1998||Comedy||USA||Penelope Spheeris||Marlon Wayans&&David Spade&&Brad Dourif
+Nowhere (1997)||09-May-1997||Drama||USA||Gregg Araki||James Duval&&Rachel True&&Nathan Bexton
+Underground (1995)||29-Mar-1996||War||Federal Republic of Yugoslavia||Emir Kusturica||Predrag 'Miki' Manojlovic&&Lazar Ristovski&&Mirjana Jokovic
+Jefferson in Paris (1995)||01-Jan-1995||Drama||USA||James Ivory||Nick Nolte&&Greta Scacchi&&Gwyneth Paltrow
+Far From Home: The Adventures of Yellow Dog (1995)||
+Foreign Student (1994)||
+I Don't Want to Talk About It (De eso no se habla) (1993)||
+Twin Town (1997)||
+Enfer, L' (1994)||
+Aiqing wansui (1994)||
+Cosi (1996)||
+All Over Me (1997)||
+Being Human (1993)||
+Amazing Panda Adventure, The (1995)||
+Beans of Egypt, Maine, The (1994)||
+Scarlet Letter, The (1926)||
+Johns (1996)||18-Oct-1996||Drama||USA||Scott Silver||David Arquette&&Lukas Haas&&Tony Epper
+It Takes Two (1995)||
+Frankie Starlight (1995)||
+Shadows (Cienie) (1988)||
+Show, The (1995)||
+The Courtyard (1995)||
+Dream Man (1995)||
+Destiny Turns on the Radio (1995)||01-Jan-1995||Comedy||USA||Jack Baran||Dylan McDermott&&Nancy Travis&&Quentin Tarantino
+Glass Shield, The (1994)||
+Hunted, The (1995)||
+Underneath, The (1995)||
+Safe Passage (1994)||
+Secret Adventures of Tom Thumb, The (1993)||
+Condition Red (1995)||01-Jan-1995||Action&&Drama&&Thriller||Finland||Mika Kaurismäki||James Russo&&Cynda Williams&&Paul Calderon
+Yankee Zulu (1994)||
+Aparajito (1956)||29-Mar-1996||Drama||India||Satyajit Ray||Smaran Ghosal&&Kamala Adhikari&&Lalchand Banerjee
+Hostile Intentions (1994)||
+Clean Slate (Coup de Torchon) (1981)||
+Tigrero: A Film That Was Never Made (1994)||01-Jan-1994||Documentary&&Drama||Brazil||Mika Kaurismäki||Samuel Fuller&&Jim Jarmusch
+Eye of Vichy, The (Oeil de Vichy, L') (1993)||
+Promise, The (Versprechen, Das) (1994)||
+Daens (1992)||01-Jan-1992||Drama||Belgium||Stijn Coninx||Jan Decleir&&Gérard Desarthe&&Antje de Boeck
+Man from Down Under, The (1943)||
+Careful (1992)||01-Jan-1992||Comedy||Canada||Guy Maddin||Kyle McCulloch&&Gosia Dobrowolska&&Sarah Neville
+Vermont Is For Lovers (1992)||
+Vie est belle, La (Life is Rosey) (1987)||
+Quartier Mozart (1992)||
+Touki Bouki (Journey of the Hyena) (1973)||
+Wend Kuuni (God's Gift) (1982)||
+Spirits of the Dead (Tre passi nel delirio) (1968)||
+Pharaoh's Army (1995)||
+I, Worst of All (Yo, la peor de todas) (1990)||
+Hungarian Fairy Tale, A (1987)||
+Death in the Garden (Mort en ce jardin, La) (1956)||
+Collectionneuse, La (1967)||
+Baton Rouge (1988)||
+Liebelei (1933)||01-Jan-1933||Romance||Germany||Max Ophüls||Paul Hörbiger&&Magda Schneider&&Luise Ullrich
+Woman in Question, The (1950)||
+T-Men (1947)||01-Jan-1947||Film-Noir||USA||Anthony Mann||Dennis O'Keefe&&Wallace Ford&&Alfred Ryder
+Invitation, The (Zaproszenie) (1986)||
+Symphonie pastorale, La (1946)||
+American Dream (1990)||
+Lashou shentan (1992)||
+Terror in a Texas Town (1958)||
+Salut cousin! (1996)||
+Schizopolis (1996)||23-May-1997||Comedy||USA||Steven Soderbergh||Steven Soderbergh&&Miles Hardy&&Scott Allen
+To Have, or Not (1995)||
+Duoluo tianshi (1995)||
+Magic Hour, The (1998)||
+Death in Brunswick (1991)||
+Everest (1998)||10-Mar-1998||Documentary||USA||None||Liam Neeson&&Lhakpa Dorji&&Dorje Sherpa
+Shopping (1994)||09-Feb-1996||Action&&Thriller||UK||Paul W.S. Anderson||Sadie Frost&&Jude Law&&Sean Pertwee
+Nemesis 2: Nebula (1995)||01-Jan-1995||Action&&Sci-Fi&&Thriller||USA||Albert Pyun||Sue Price&&Chad Stahelski&&Tina Cote
+Romper Stomper (1992)||01-Jan-1992||Action&&Drama||Australia||Geoffrey Wright||Russell Crowe&&Daniel Pollock&&Jacqueline McKenzie
+City of Industry (1997)||
+Someone Else's America (1995)||
+Guantanamera (1994)||
+Office Killer (1997)||
+Price Above Rubies, A (1998)||
+Angela (1995)||16-Feb-1996||Drama||USA||Rebecca Miller||Miranda Rhyne&&Charlotte Eve Blythe&&Anna Levine
+He Walked by Night (1948)||
+Love Serenade (1996)||
+Deceiver (1997)||01-Jan-1997||Crime||USA||None||Tim Roth&&Chris Penn&&Michael Rooker
+Hurricane Streets (1998)||
+Buddy (1997)||06-Jun-1997||Adventure&&Children's&&Drama||USA||Caroline Thompson||Rene Russo&&Robbie Coltrane&&Alan Cumming
+B*A*P*S (1997)||28-Mar-1997||Comedy||USA||Robert Townsend||Halle Berry&&Natalie Desselle Reid&&Martin Landau
+Truth or Consequences, N.M. (1997)||
+Intimate Relations (1996)||
+Leading Man, The (1996)||
+Tokyo Fist (1995)||
+Reluctant Debutante, The (1958)||
+Warriors of Virtue (1997)||02-May-1997||Action&&Adventure&&Children's&&Fantasy||USA||Ronny Yu||Angus Macfadyen&&Mario Yedidia&&Marley Shelton
+Desert Winds (1995)||
+Hugo Pool (1997)||01-Jan-1997||Romance||USA||Robert Downey Sr.||Alyssa Milano&&Mark Boone Junior&&Malcolm McDowell
+King of New York (1990)||
+All Things Fair (1996)||
+Sixth Man, The (1997)||
+Butterfly Kiss (1995)||
+Paris, France (1993)||01-Jan-1993||Comedy||Canada||Jerry Ciccoritti||Leslie Hope&&Peter Outerbridge&&Victor Ertmanis
+C�r�monie, La (1995)||Hush (1998)||10-Mar-1998||Thriller||USA||Jonathan Darby||Jessica Lange&&Gwyneth Paltrow&&Johnathon Schaech
+Nightwatch (1997)||22-Apr-1997||Horror&&Thriller||USA||Ole Bornedal||Ewan McGregor&&Nick Nolte&&Anais Evans
+Nobody Loves Me (Keiner liebt mich) (1994)||
+Wife, The (1995)||
+Lamerica (1994)||01-Jan-1994||Drama||Italy||Gianni Amelio||Enrico Lo Verso&&Michele Placido&&Piro Milkani
+Nico Icon (1995)||
+Silence of the Palace, The (Saimt el Qusur) (1994)||
+Slingshot, The (1993)||
+Land and Freedom (Tierra y libertad) (1995)||
+� k�ldum klaka (Cold Fever) (1994)||Etz Hadomim Tafus (Under the Domin Tree) (1994)||
+Two Friends (1986) ||
+Brothers in Trouble (1995)||
+Girls Town (1996)||
+Normal Life (1996)||
+Bitter Sugar (Azucar Amargo) (1996)||
+Eighth Day, The (1996)||
+Dadetown (1995)||18-Sep-1996||Documentary||USA||Russ Hexter||Jim Pryor&&Stephen Beals&&Fred Worrell
+Some Mother's Son (1996)||
+Angel Baby (1995)||
+Sudden Manhattan (1996)||
+Butcher Boy, The (1998)||
+Men With Guns (1997)||
+Hana-bi (1997)||20-Mar-1998||Comedy&&Crime&&Drama||Japan||Takeshi Kitano||Takeshi Kitano&&Kayoko Kishimoto&&Ren Ohsugi
+Niagara, Niagara (1997)||20-Mar-1998||Drama||USA||Bob Gosse||Robin Tunney&&Henry Thomas&&Michael Parks
+Big One, The (1997)||
+Butcher Boy, The (1998)||
+Spanish Prisoner, The (1997)||
+Temptress Moon (Feng Yue) (1996)||
+Entertaining Angels: The Dorothy Day Story (1996)||27-Sep-1996||Drama||USA||Michael Ray Rhodes||Moira Kelly&&Martin Sheen&&Lenny von Dohlen
+Chairman of the Board (1998)||01-Jan-1998||Comedy||USA||Alex Zamm||Scott 'Carrot Top' Thompson&&Courtney Thorne-Smith&&Larry Miller
+Favor, The (1994)||
+Little City (1998)||
+Target (1995)||
+Substance of Fire, The (1996)||
+Getting Away With Murder (1996)||
+Small Faces (1995)||
+New Age, The (1994)||
+Rough Magic (1995)||
+Nothing Personal (1995)||
+8 Heads in a Duffel Bag (1997)||
+Brother's Kiss, A (1997)||
+Ripe (1996)||02-May-1997||Drama||USA||Mo Ogrodnik||Monica Keena&&Daisy Eagan&&Gordon Currie
+Next Step, The (1995)||
+Wedding Bell Blues (1996)||
+MURDER and murder (1996)||
+Tainted (1998)||
+Further Gesture, A (1996)||
+Kika (1993)||01-Jan-1993||Drama||Spain||Pedro Almodóvar||Peter Coyote&&Verónica Forqué&&Victoria Abril
+Mirage (1995)||
+Mamma Roma (1962)||
+Sunchaser, The (1996)||
+War at Home, The (1996)||
+Sweet Nothing (1995)||
+Mat' i syn (1997)||
+B. Monkey (1998)||
+Sliding Doors (1998)||01-Jan-1998||Drama&&Romance||UK||Peter Howitt||Gwyneth Paltrow&&John Hannah&&John Lynch
+You So Crazy (1994)||
+Scream of Stone (Schrei aus Stein) (1991)||
