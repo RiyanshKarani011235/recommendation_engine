@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import re
 
 def validate_match(match_object) :

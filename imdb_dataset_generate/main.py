@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 '''
 Features to use from IMDB database:
 	1.Actor
@@ -223,6 +225,6 @@ def crawl(movie_names_array) :
 if __name__ == '__main__' :
 	# run this part of the code only if this is the main script
 	# (run as such : python main.py)
-	# if this script is imported by any other script, do nothing 
+	# if this script is imported by any other script, do nothing
 	movie_names_array, movie_release_dates_array, movie_genres_array, movie_urls_array = dataset_utils.parse_dataset()
 	crawl(movie_names_array)
